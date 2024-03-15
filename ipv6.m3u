@@ -451,3 +451,61 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="iHOT",爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+
+#US-POP
+#EXTINF:-1 tvg-name="" tvg-id="UnivisionEast.us" tvg-logo="" group-title="US_PoP",Univision East
+http://livex.pop-app.live/s4n/poplive/ch328/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="USANetworkEast.us" tvg-logo="" group-title="US_PoP",USA Network
+http://livex.pop-app.live/s4n/poplive/ch341/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="OxygenEast.us" tvg-logo="" group-title="US_PoP",Oxygen True Crime
+http://livex.pop-app.live/s4n/poplive/ch560/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="TennisChannel.us" tvg-logo="" group-title="US_PoP",Tennis Channel
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="ParamountNetworkEast.us" tvg-logo="" group-title="US_PoP",Paramount Network
+http://livex.pop-app.live/s4n/poplive/ch544/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="OutdoorChannel.us" tvg-logo="" group-title="US_PoP",Outdoor Channel
+http://livex.pop-app.live/s4n/poplive/ch324/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="NFLNetwork.us" tvg-logo="" group-title="US_PoP",NFL Network
+http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="NBATV.us" tvg-logo="" group-title="US_PoP",NBA TV
+http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="NationalGeographicEast.us" tvg-logo="" group-title="US_PoP",National Geographic
+http://livex.pop-app.live/s4n/poplive/ch217/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="MLBNetwork.us" tvg-logo="" group-title="US_PoP",MLB Network
+http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="MeTV.us" tvg-logo="" group-title="US_PoP",MeTV
+http://livex.pop-app.live/s4n/poplive/ch557/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="LifetimeEast.us" tvg-logo="" group-title="US_PoP",Lifetime
+http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="IONTVEast.us" tvg-logo="" group-title="US_PoP",ION Television
+http://livex.pop-app.live/s4n/poplive/ch565/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="HistoryEast.us" tvg-logo="" group-title="US_PoP",History Channel
+http://livex.pop-app.live/s4n/poplive/ch215/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="HallmarkChannelEast.us" tvg-logo="" group-title="US_PoP",Hallmark Channel
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="Grit.us" tvg-logo="" group-title="US_PoP",Grit
+http://livex.pop-app.live/s4n/poplive/ch563/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="GolfChannel.us" tvg-logo="" group-title="US_PoP",NBC Golf
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="FXXEast.us" tvg-logo="" group-title="US_PoP",FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="FoxSports2.us" tvg-logo="" group-title="US_PoP",FOX Sports 2
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="FoxSports1.us" tvg-logo="" group-title="US_PoP",FOX Sports 1
+http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="KRIVDT1.us" tvg-logo="" group-title="US_PoP",FOX 26 Houston
+http://livex.pop-app.live/s4n/poplive/ch228/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="FoxDeportes.us" tvg-logo="" group-title="US_PoP",FOX Deportes
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="BigTenNetwork.us" tvg-logo="" group-title="US_PoP",BIG 10 Network
+http://livex.pop-app.live/s4n/poplive/ch572/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="EEast.us" tvg-logo="" group-title="US_PoP",E!
+http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="CBSSportsNetworkUSA.us" tvg-logo="" group-title="US_PoP",CBS Sports Network
+http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="BravoEast.us" tvg-logo="" group-title="US_PoP",Bravo
+http://livex.pop-app.live/s4n/poplive/ch316/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="ACCNetwork.us" tvg-logo="" group-title="US_PoP",ACC Network
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="KSATDT1.us" tvg-logo="" group-title="US_PoP",ABC 12 San Antonio
+http://livex.pop-app.live/s4n/poplive/ch340/playlist.m3u8
