@@ -147,7 +147,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.
 #EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://epg.112114.xyz/logo/求索生活.png" group-title="数字高清",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="数字高清",黑莓电影
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="hmdh" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="数字高清",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="dbdj" tvg-name="哒啵电竞" tvg-logo="https://epg.112114.xyz/logo/哒啵电竞.png" group-title="数字高清",哒啵电竞
