@@ -1,43 +1,83 @@
 #EXTM3U
-#EXTINF:-1 ,重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 ,CCTV1
-http://125.210.152.19:9121/live/hzgq-cctv1gq-h264.m3u8
-#EXTINF:-1 ,CCTV2
-http://125.210.152.19:9121/live/hzgq-cctv2gq-h264.m3u8
-#EXTINF:-1 ,CCTV3
-http://125.210.152.19:9121/live/hzgq-cctv3gq-h264.m3u8
-#EXTINF:-1 ,CCTV4
-http://125.210.152.19:9121/live/hzgq-cctv4gq-h264.m3u8
-#EXTINF:-1 ,CCTV5
-http://125.210.152.19:9121/live/hzgq-cctv5gq-h264.m3u8
-#EXTINF:-1 ,CCTV5+
-http://125.210.152.19:9121/live/hzgq-cctvzhgq-h264.m3u8
-#EXTINF:-1 ,CCTV6
-http://125.210.152.19:9121/live/hzgq-cctv6gq-h264.m3u8
-#EXTINF:-1 ,CCTV7
-http://125.210.152.19:9121/live/hzgq-cctv7gq-h264.m3u8
-#EXTINF:-1 ,CTV8
-http://125.210.152.19:9121/live/hzgq-cctv8gq-h264.m3u8
-#EXTINF:-1 ,CCTV9
-http://125.210.152.19:9121/live/hzgq-cctvjlgq-h264.m3u8
-#EXTINF:-1 ,CCTV10
-http://125.210.152.19:9121/live/hzgq-cctv10gq-h264.m3u8
-#EXTINF:-1 ,CCTV11
-http://125.210.152.19:9121/live/hzgq-cctv11gq-h264.m3u8
-#EXTINF:-1 ,CCTV12
-http://125.210.152.19:9121/live/hzgq-cctv12gq-h264.m3u8
-#EXTINF:-1 ,CCTV13
-http://125.210.152.19:9121/live/hzgq-cctvnewsgq-h264.m3u8
-#EXTINF:-1 ,CCTV14
-http://125.210.152.19:9121/live/hzgq-cctvsegq-h264.m3u8
-#EXTINF:-1 ,CCTV15
-http://125.210.152.19:9121/live/hzgq-cctvmusicgq-h264.m3u8
-#EXTINF:-1 ,CCTV16
-http://125.210.152.19:9121/live/hzgq-cctv16gq-h264.m3u8
-#EXTINF:-1 ,CCTV17
-http://125.210.152.19:9121/live/hzgq-cctv17gq-h264.m3u8
-#EXTINF:-1 ,CGTN
-http://125.210.152.19:9121/live/hszx-cctvgj-h264.m3u8
-#EXTINF:-1 ,CETV4
-http://125.210.152.19:9121/live/hszx-CETV-4-h264.m3u8
+#EXTINF:-1 ,许氏三杰
+http://cfss.cc/cdn/hy/11602033.flv
+#EXTINF:-1 ,许冠英
+http://cfss.cc/cdn/hy/11601972.flv
+#EXTINF:-1 ,五福星
+http://cfss.cc/cdn/hy/11282233.flv
+#EXTINF:-1 ,周星驰
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1 ,成龙
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 ,周润发
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 ,李连杰
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1 ,邱淑贞
+http://cfss.cc/cdn/hy/11352949.flv
+#EXTINF:-1 ,刘德华
+http://cfss.cc/cdn/hy/11342424.flv
+#EXTINF:-1 ,林正英
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1 ,徐峥
+http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 ,沈腾
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1 ,古天乐
+http://cfss.cc/cdn/hy/11602041.flv
+#EXTINF:-1 ,洪金宝
+http://cfss.cc/cdn/hy/11279251.flv
+#EXTINF:-1 ,徐克
+http://cfss.cc/cdn/hy/11352909.flv
+#EXTINF:-1 ,黄渤
+http://cfss.cc/cdn/hy/11352876.flv
+#EXTINF:-1 ,斗罗大陆
+http://cfss.cc/cdn/hy/11352906.flv
+#EXTINF:-1 ,小马的直播间
+http://cfss.cc/cdn/hy/23749096.flv
+#EXTINF:-1 ,孙悟空
+http://cfss.cc/cdn/hy/23735126.flv
+#EXTINF:-1 ,张卫健版西游记
+http://cfss.cc/cdn/hy/23728660.flv
+#EXTINF:-1 ,楚汉骄雄
+http://cfss.cc/cdn/hy/23740156.flv
+#EXTINF:-1 ,鹿鼎记小春版
+http://cfss.cc/cdn/hy/23865080.flv
+#EXTINF:-1 ,天龙八部97版
+http://cfss.cc/cdn/hy/23903123.flv
+#EXTINF:-1 ,刑事侦缉档案
+http://cfss.cc/cdn/hy/23734169.flv
+#EXTINF:-1 ,寻秦记
+http://cfss.cc/cdn/hy/23864973.flv
+#EXTINF:-1 ,法证先锋
+http://cfss.cc/cdn/hy/23863804.flv
+#EXTINF:-1 ,陀枪师姐
+http://cfss.cc/cdn/hy/23860039.flv
+#EXTINF:-1 ,笑傲江湖
+http://cfss.cc/cdn/hy/23865142.flv
+#EXTINF:-1 ,洗冤录
+http://cfss.cc/cdn/hy/23903130.flv
+#EXTINF:-1 ,倚天屠龙记
+http://cfss.cc/cdn/hy/23734246.flv
+#EXTINF:-1 ,神雕侠侣
+http://cfss.cc/cdn/hy/23865171.flv
+#EXTINF:-1 ,鉴证实录
+http://cfss.cc/cdn/hy/23903183.flv
+#EXTINF:-1 ,创世纪
+http://cfss.cc/cdn/hy/23749083.flv
+#EXTINF:-1 ,使徒行者
+http://cfss.cc/cdn/hy/23734256.flv
+#EXTINF:-1 ,金枝欲孽
+http://cfss.cc/cdn/hy/23865036.flv
+#EXTINF:-1 ,大唐双龙传
+http://cfss.cc/cdn/hy/23728674.flv
+#EXTINF:-1 ,妙手仁心
+http://cfss.cc/cdn/hy/23829543.flv
+#EXTINF:-1 ,扫黄先锋
+http://cfss.cc/cdn/hy/23903196.flv
+#EXTINF:-1 ,笑看风云
+http://cfss.cc/cdn/hy/23865058.flv
+#EXTINF:-1 ,大时代
+http://cfss.cc/cdn/hy/23865161.flv
+#EXTINF:-1 ,梁朝伟版鹿鼎记
+http://cfss.cc/cdn/hy/23734183.flv
