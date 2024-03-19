@@ -1,6 +1,6 @@
-#pv4
-#EXTM3U
 
+#EXTM3U
+#港澳台
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="港澳台",凤凰卫视
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-id="" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="港澳台",凤凰资讯
