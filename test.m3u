@@ -1,83 +1,133 @@
 #EXTM3U
-#EXTINF:-1 ,许氏三杰
-http://cfss.cc/cdn/hy/11602033.flv
-#EXTINF:-1 ,许冠英
-http://cfss.cc/cdn/hy/11601972.flv
-#EXTINF:-1 ,五福星
-http://cfss.cc/cdn/hy/11282233.flv
-#EXTINF:-1 ,周星驰
-http://cfss.cc/cdn/hy/11342412.flv
-#EXTINF:-1 ,成龙
-http://cfss.cc/cdn/hy/11342386.flv
-#EXTINF:-1 ,周润发
-http://cfss.cc/cdn/hy/11342387.flv
-#EXTINF:-1 ,李连杰
-http://cfss.cc/cdn/hy/11342390.flv
-#EXTINF:-1 ,邱淑贞
-http://cfss.cc/cdn/hy/11352949.flv
-#EXTINF:-1 ,刘德华
-http://cfss.cc/cdn/hy/11342424.flv
-#EXTINF:-1 ,林正英
-http://cfss.cc/cdn/hy/11342421.flv
-#EXTINF:-1 ,徐峥
-http://cfss.cc/cdn/hy/11602043.flv
-#EXTINF:-1 ,沈腾
-http://cfss.cc/cdn/hy/11601968.flv
-#EXTINF:-1 ,古天乐
-http://cfss.cc/cdn/hy/11602041.flv
-#EXTINF:-1 ,洪金宝
-http://cfss.cc/cdn/hy/11279251.flv
-#EXTINF:-1 ,徐克
-http://cfss.cc/cdn/hy/11352909.flv
-#EXTINF:-1 ,黄渤
-http://cfss.cc/cdn/hy/11352876.flv
-#EXTINF:-1 ,斗罗大陆
-http://cfss.cc/cdn/hy/11352906.flv
-#EXTINF:-1 ,小马的直播间
-http://cfss.cc/cdn/hy/23749096.flv
-#EXTINF:-1 ,孙悟空
-http://cfss.cc/cdn/hy/23735126.flv
-#EXTINF:-1 ,张卫健版西游记
-http://cfss.cc/cdn/hy/23728660.flv
-#EXTINF:-1 ,楚汉骄雄
-http://cfss.cc/cdn/hy/23740156.flv
-#EXTINF:-1 ,鹿鼎记小春版
-http://cfss.cc/cdn/hy/23865080.flv
-#EXTINF:-1 ,天龙八部97版
-http://cfss.cc/cdn/hy/23903123.flv
-#EXTINF:-1 ,刑事侦缉档案
-http://cfss.cc/cdn/hy/23734169.flv
-#EXTINF:-1 ,寻秦记
-http://cfss.cc/cdn/hy/23864973.flv
-#EXTINF:-1 ,法证先锋
-http://cfss.cc/cdn/hy/23863804.flv
-#EXTINF:-1 ,陀枪师姐
-http://cfss.cc/cdn/hy/23860039.flv
-#EXTINF:-1 ,笑傲江湖
-http://cfss.cc/cdn/hy/23865142.flv
-#EXTINF:-1 ,洗冤录
-http://cfss.cc/cdn/hy/23903130.flv
-#EXTINF:-1 ,倚天屠龙记
-http://cfss.cc/cdn/hy/23734246.flv
-#EXTINF:-1 ,神雕侠侣
-http://cfss.cc/cdn/hy/23865171.flv
-#EXTINF:-1 ,鉴证实录
-http://cfss.cc/cdn/hy/23903183.flv
-#EXTINF:-1 ,创世纪
-http://cfss.cc/cdn/hy/23749083.flv
-#EXTINF:-1 ,使徒行者
-http://cfss.cc/cdn/hy/23734256.flv
-#EXTINF:-1 ,金枝欲孽
-http://cfss.cc/cdn/hy/23865036.flv
-#EXTINF:-1 ,大唐双龙传
-http://cfss.cc/cdn/hy/23728674.flv
-#EXTINF:-1 ,妙手仁心
-http://cfss.cc/cdn/hy/23829543.flv
-#EXTINF:-1 ,扫黄先锋
-http://cfss.cc/cdn/hy/23903196.flv
-#EXTINF:-1 ,笑看风云
-http://cfss.cc/cdn/hy/23865058.flv
-#EXTINF:-1 ,大时代
-http://cfss.cc/cdn/hy/23865161.flv
-#EXTINF:-1 ,梁朝伟版鹿鼎记
-http://cfss.cc/cdn/hy/23734183.flv
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png",TVB明珠台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+#EXTINF:-1 tvg-name="TVBJ2台" tvg-logo="https://live.fanmingming.com/tv/TVBJ2台.png",TVBJ2台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
+#EXTINF:-1 tvg-name="TVB星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png",TVB星河台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",无线新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+#EXTINF:-1 tvg-name="无线财经台" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png",无线财经台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
+#EXTINF:-1 tvg-name="无线财经台" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png",无线财经台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
+#EXTINF:-1 tvg-name="HOY77台" tvg-logo="https://live.fanmingming.com/tv/HOY77台.png",HOY77台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+#EXTINF:-1 tvg-name="HOY78台" tvg-logo="https://live.fanmingming.com/tv/HOY78台.png",HOY78台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+#EXTINF:-1 tvg-name="赛马18台" tvg-logo="https://live.fanmingming.com/tv/赛马18台.png",赛马18台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivevhxjcvfhoejfjhdojjjyhcvxcljhjotjyj9jssjfdjcvhthofsjjhyx18.flv
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://live.fanmingming.com/tv/VIUTV.png",VIUTV
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
+#EXTINF:-1 tvg-name="VIUTV6" tvg-logo="https://live.fanmingming.com/tv/VIUTV6.png",VIUTV6
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png",RTHK31
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png",RTHK32
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://live.fanmingming.com/tv/天映频道.png",天映频道
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png",天映经典
+http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png",澳门莲花
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png",民视
+http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png",中视
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png",华视
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png",台视
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
+#EXTINF:-1 tvg-name="TVBS台" tvg-logo="https://live.fanmingming.com/tv/TVBS台.png",TVBS台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png",TVBS新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+#EXTINF:-1 tvg-name="壹新闻台" tvg-logo="https://live.fanmingming.com/tv/壹新闻台.png",壹新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
+#EXTINF:-1 tvg-name="镜新闻台" tvg-logo="https://live.fanmingming.com/tv/镜新闻台.png",镜新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png",民视新闻台
+hhttp://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
+#EXTINF:-1 tvg-name="华视新闻台" tvg-logo="https://live.fanmingming.com/tv/华视新闻台.png",华视新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
+#EXTINF:-1 tvg-name="中视新闻台" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png",中视新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
+#EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻台.png",台视新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png",寰宇新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png",中天新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+#EXTINF:-1 tvg-name="年代新闻台" tvg-logo="https://live.fanmingming.com/tv/年代新闻台.png",年代新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png",东森新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://live.fanmingming.com/tv/三立新闻台.png",三立新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+#EXTINF:-1 tvg-name="三立LIVE台" tvg-logo="https://live.fanmingming.com/tv/三立LIVE台.png",三立LIVE台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+#EXTINF:-1 tvg-name="非凡新闻台" tvg-logo="https://live.fanmingming.com/tv/非凡新闻台.png",非凡新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+#EXTINF:-1 tvg-name="华艺综合台" tvg-logo="https://live.fanmingming.com/tv/华艺综合台.png",华艺综合台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmbnfjujfdhyujmjbvnjslhdj.flv
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.com/tv/东森戏剧台.png",东森戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.com/tv/东森戏剧台.png",东森戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://live.fanmingming.com/tv/东森电影台.png",东森电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
+#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://live.fanmingming.com/tv/东森洋片台.png",东森洋片台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
+#EXTINF:-1 tvg-name="龙祥电影台" tvg-logo="https://live.fanmingming.com/tv/龙祥电影台.png",龙祥电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
+#EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台.png",龙华戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
+#EXTINF:-1 tvg-name="龙华洋片台" tvg-logo="https://live.fanmingming.com/tv/龙华洋片台.png",龙华洋片台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
+#EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影台.png",好莱坞电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
+#EXTINF:-1 tvg-name="ELTA影剧台" tvg-logo="https://live.fanmingming.com/tv/ELTA影剧台.png",ELTA影剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmvbsjjjfdhyujmjbvnjslhxd.flv
+#EXTINF:-1 tvg-name="CINEMAX电影台" tvg-logo="https://live.fanmingming.com/tv/CINEMAX电影台.png",CINEMAX电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
+#EXTINF:-1 tvg-name="BOO恐怖台" tvg-logo="https://live.fanmingming.com/tv/BOO恐怖台.png",BOO恐怖台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
+#EXTINF:-1 tvg-name="Thrill台" tvg-logo="https://live.fanmingming.com/tv/Thrill台.png",Thrill台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
+#EXTINF:-1 tvg-name="Thrill台" tvg-logo="https://live.fanmingming.com/tv/Thrill台.png",Thrill台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejvpjfjwjojcvljnjletfojsjjhjsjdjljdfewjjtthjjll.flv
+#EXTINF:-1 tvg-name="AXN台" tvg-logo="https://live.fanmingming.com/tv/AXN台.png",AXN台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
+#EXTINF:-1 tvg-name="HBO台" tvg-logo="https://live.fanmingming.com/tv/HBO台.png",HBO台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
+#EXTINF:-1 tvg-name="HBO 家庭台" tvg-logo="https://live.fanmingming.com/tv/HBO 家庭台.png",HBO 家庭台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
+#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://live.fanmingming.com/tv/探索频道.png",探索频道
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
+#EXTINF:-1 tvg-name="国家野生" tvg-logo="https://live.fanmingming.com/tv/国家野生.png",国家野生
+http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjlys.flv
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://live.fanmingming.com/tv/国家地理.png",国家地理
+http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfvvbhfjcjhbnjsjbcvjftjjsfcbjbnjgdjl.flv
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/动物星球.png",动物星球
+http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="https://live.fanmingming.com/tv/纬来体育台.png",纬来体育台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveefjjxchjhjpfjxcvdwpedypwepdjxfcvnxvsjjljhsjfhwlty.flv
+#EXTINF:-1 tvg-name="博斯高球1台" tvg-logo="https://live.fanmingming.com/tv/博斯高球1台.png",博斯高球1台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejmxjcvpjojjdejhdbcxhvjsjtjhwojjfsjjjhvcxvhbsjjyj.flv
+#EXTINF:-1 tvg-name="博斯高球2台" tvg-logo="https://live.fanmingming.com/tv/博斯高球2台.png",博斯高球2台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljyjdjyfjoxvchjwhjwojdjjhjjlsjhbjbsjjej.flv
+#EXTINF:-1 tvg-name="爱尔达体育Ⅰ台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育Ⅰ台.png",爱尔达体育Ⅰ台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
+#EXTINF:-1 tvg-name="爱尔达体育Ⅱ台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育Ⅱ台.png",爱尔达体育Ⅱ台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
+#EXTINF:-1 tvg-name="爱尔达体育Ⅲ台" tvg-logo="https://live.fanmingming.com/tv/爱尔达体育Ⅲ台.png",爱尔达体育Ⅲ台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
+#EXTINF:-1 tvg-name="ELEVEN1台" tvg-logo="https://live.fanmingming.com/tv/ELEVEN1台.png",ELEVEN1台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
