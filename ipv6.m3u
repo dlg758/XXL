@@ -441,11 +441,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="NewTV系列",28SiTV都市剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-name="SiTV欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场4K.png" group-title="NewTV影视",29SiTV欢笑剧场4K
+#EXTINF:-1 tvg-name="SiTV欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场4K.png" group-title="NewTV系列",29SiTV欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-name="SiTV全纪实" tvg-logo="https://live.fanmingming.com/tv/SiTV全纪实.png" group-title="NewTV影视",30SiTV全纪实
+#EXTINF:-1 tvg-name="SiTV全纪实" tvg-logo="https://live.fanmingming.com/tv/SiTV全纪实.png" group-title="NewTV系列",30SiTV全纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="NewTV影视",31SiTV游戏风云
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="NewTV系列",31SiTV游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 
 
