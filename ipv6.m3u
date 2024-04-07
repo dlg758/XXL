@@ -715,6 +715,11 @@ https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
 #EXTINF:-1 tvg-id="2024" tvg-name="" group-title="春晚回味",春晚2024
 https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
 
+#动漫
+#EXTINF:-1 tvg-id="10001" tvg-name="" group-title="动漫",哆啦A梦
+https://tv.iill.top/huya/11601963
+#EXTINF:-1 tvg-id="10002" tvg-name="" group-title="动漫",猫和老鼠
+https://tv.iill.top/huya/11352879
 
 #电视剧轮播
 #EXTINF:-1 tvg-id="3001" tvg-name="" group-title="电视剧轮播",射雕英雄传
