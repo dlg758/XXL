@@ -529,10 +529,6 @@ http://43.138.170.29:35455/douyu/8945323
 http://43.138.170.29:35455/douyu/8869614
 #EXTINF:-1 tvg-name="动漫直播" tvg-logo="https://live.fanmingming.com/tv/动漫直播.png" group-title="电影轮播",动漫直播
 http://43.138.170.29:35455/douyu/1487654
-#EXTINF:-1 tvg-name="神乐影片1" tvg-logo="https://live.fanmingming.com/tv/神乐影片1.png" group-title="电影轮播",神乐影片1
-http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 tvg-name="神乐影片2" tvg-logo="https://live.fanmingming.com/tv/神乐影片2.png" group-title="电影轮播",神乐影片2
-http://epg.112114.xyz/douyu/85894
 #EXTINF:-1 tvg-name="华语院线" tvg-logo="https://live.fanmingming.com/tv/华语院线.png" group-title="电影轮播",华语院线
 http://epg.112114.xyz/douyu/5581257
 #EXTINF:-1 tvg-name="周末影院" tvg-logo="https://live.fanmingming.com/tv/周末影院.png" group-title="电影轮播",周末影院
