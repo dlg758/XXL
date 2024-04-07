@@ -715,6 +715,34 @@ https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
 #EXTINF:-1 tvg-id="2024" tvg-name="" group-title="春晚回味",春晚2024
 https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
 
+#音乐
+#EXTINF:-1 tvg-id="10101" tvg-name="" group-title="音乐",音乐石榴
+https://tv.iill.top/huya/17091681
+#EXTINF:-1 tvg-id="10102" tvg-name="" group-title="音乐",治愈•放松
+https://tv.iill.top/huya/21241811
+#EXTINF:-1 tvg-id="10103" tvg-name="" group-title="音乐",新歌速递
+https://tv.iill.top/huya/19439762
+#EXTINF:-1 tvg-id="10104" tvg-name="" group-title="音乐",阅读•学习
+https://tv.iill.top/huya/21241813
+#EXTINF:-1 tvg-id="10105" tvg-name="" group-title="音乐",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="10106" tvg-name="" group-title="音乐",Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="10107" tvg-name="" group-title="音乐",M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="10108" tvg-name="" group-title="音乐",Vibee
+http://de1se01.v2beat.live/chunks.m3u8
+#EXTINF:-1 tvg-id="10109" tvg-name="" group-title="音乐",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="10110" tvg-name="" group-title="音乐",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-id="10111" tvg-name="" group-title="音乐",MTV Spankin
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="10112" tvg-name="" group-title="音乐",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-id="10113" tvg-name="" group-title="音乐",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
 #动漫
 #EXTINF:-1 tvg-id="10001" tvg-name="" group-title="动漫",哆啦A梦
 https://tv.iill.top/huya/11601963
