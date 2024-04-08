@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",NewTV超级综艺
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",超级综艺
-https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",超级综艺
 https://epg.pw/stream/682dd87ae8746d13b39c9dbcada27f8c48cf4b093b2bf69d563d558881385551.ctv
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",超级综艺
