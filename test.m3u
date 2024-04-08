@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",NewTV超级综艺
-http://[240e:d9:c200:154:4720::660]/ds/ysp/ysp.php?id=cctv1&key=93891&Cf.m3u8
+http://110.72.85.151:8181/tsfile/live/1095_1.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",超级综艺
-http://[240e:d9:c200:154:4720::660]/ds/ysp/ysp.php?id=cctv2&key=93891&Cf.m3u8
+http://110.72.85.151:8181/tsfile/live/1096_1.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",超级综艺
-http://[240e:d9:c200:154:4720::660]/ds/ysp/ysp.php?id=cctv3&key=93891&Cf.m3u8
+http://110.72.85.151:8181/tsfile/live/1097_1.m3u8
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",超级综艺
-http://[240e:d9:c200:154:4720::660]/ds/ysp/ysp.php?id=cctv4&key=93891&Cf.m3u8
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",求索动物
 http://[240e:d9:c200:154:4720::660]/ds/ysp/ysp.php?id=cctv5&key=93891&Cf.m3u8
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",求索记录
