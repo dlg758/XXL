@@ -361,6 +361,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="1307" tvg-name="浙江国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang7.png" group-title="地方特色",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="1308" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="地方特色",浙江数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 
 #上海/6个频道
@@ -381,7 +383,19 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.
 #EXTINF:-1 tvg-id="1501" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="地方特色",纪实科教
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 tvg-id="1502" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",卡酷少儿
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+http://183.242.49.77:8787/live/BTV%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF/index.m3u8
+#EXTINF:-1 tvg-id="1503" tvg-name="北京新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京新闻.png" group-title="地方特色",北京新闻
+http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+#EXTINF:-1 tvg-id="1504" tvg-name="北京文艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京文艺.png" group-title="地方特色",北京文艺
+http://183.242.49.77:8787/live/BTV%E6%96%87%E8%89%BA/index.m3u8
+#EXTINF:-1 tvg-id="1505" tvg-name="北京影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京影视.png" group-title="地方特色",北京影视
+http://183.242.49.77:8787/live/BTV%E5%BD%B1%E8%A7%86/index.m3u8
+#EXTINF:-1 tvg-id="1506" tvg-name="北京体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京体育休闲.png" group-title="地方特色",体育休闲
+http://183.242.49.77:8787/live/BTV%E4%BD%93%E8%82%B2/index.m3u8
+#EXTINF:-1 tvg-id="1507" tvg-name="北京生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京生活.png" group-title="地方特色",北京生活
+http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8
+#EXTINF:-1 tvg-id="1508" tvg-name="北京国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/北京国际.png" group-title="地方特色",北京国际
+http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
 
 #陕西/7个频道
 #EXTINF:-1 tvg-id="1601" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
