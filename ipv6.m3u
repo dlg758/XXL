@@ -132,7 +132,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 https://itv.lat/tv/live.php?&line=1&id=xmws
 #EXTINF:-1,tvg-id="141" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视高清",海峡卫视
 http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
-#EXTINF:-1 tvg-id="142" tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="卫视高清",山东教育卫视
+#EXTINF:-1 tvg-id="142" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视高清",山东教育卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 
 #数字高清/53个频道
@@ -218,9 +218,9 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="241" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="数字高清",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=ef020873e512e364b6fff2293799cda7&txTime=18db7262ee8
-#EXTINF:-1 tvg-id="242" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="数字高清",CNN
+#EXTINF:-1 tvg-id="242" tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="数字高清",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="243" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="数字高清",CNA
+#EXTINF:-1 tvg-id="243" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="数字高清",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="Taiwan Plus" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="数字高清",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
