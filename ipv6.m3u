@@ -165,29 +165,29 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="214" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="数字高清",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="215" tvg-name="风云剧场" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="数字高清",风云剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.45:1234
 #EXTINF:-1 tvg-id="216" tvg-name="风云音乐" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="数字高清",风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.47:1234
 #EXTINF:-1 tvg-id="217" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="数字高清",第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.29:1234
 #EXTINF:-1 tvg-id="218" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="数字高清",女性时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="219" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="数字高清",风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.52:1234
 #EXTINF:-1 tvg-id="220" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="数字高清",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="221" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="数字高清",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.38:1234
 #EXTINF:-1 tvg-id="222" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="数字高清",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="数字高清",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="224" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="数字高清",央视台球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.60:1234
 #EXTINF:-1 tvg-id="225" tvg-name="高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="数字高清",高尔夫网球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-id="226" tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="数字高清",电视指南
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+http://119.118.170.190:8888/rtp/232.0.0.91:1234
 #EXTINF:-1 tvg-id="227" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="数字高清",都市剧场
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="228" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="数字高清",金色学堂
@@ -359,45 +359,45 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 tvg-id="7027" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NEWTV怡伴健康.png" group-title="NewTV系列",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 tvg-id="7028" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="NewTV系列",SiTV都市剧场
-#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-id="7029" tvg-name="SiTV欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场4K.png" group-title="NewTV系列",SiTV欢笑剧场4K
-#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-id="7030" tvg-name="SiTV全纪实" tvg-logo="https://live.fanmingming.com/tv/SiTV全纪实.png" group-title="NewTV系列",SiTV全纪实
-#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-#EXTINF:-1 tvg-id="7031" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="NewTV系列",SiTV游戏风云
-#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
+#  /*注释*/  EXTINF:-1 tvg-id="7028" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="NewTV系列",SiTV都市剧场
+#  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+#  /*注释*/  EXTINF:-1 tvg-id="7029" tvg-name="SiTV欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场4K.png" group-title="NewTV系列",SiTV欢笑剧场4K
+#  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#  /*注释*/  EXTINF:-1 tvg-id="7030" tvg-name="SiTV全纪实" tvg-logo="https://live.fanmingming.com/tv/SiTV全纪实.png" group-title="NewTV系列",SiTV全纪实
+#  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+#  /*注释*/  EXTINF:-1 tvg-id="7031" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="NewTV系列",SiTV游戏风云
+#  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 
 
 #iHOT频道/14个频道
-#EXTINF:-1 tvg-id="7101" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="iHOT",爱院线
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7102" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="iHOT",爱科幻
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7103" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="iHOT",爱浪漫
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7104" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="iHOT",爱喜剧
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7105" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="iHOT",爱悬疑
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7106" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="iHOT",爱谍战
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7107" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="iHOT",爱赛车
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7108" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="iHOT",爱奇谈
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7109" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="iHOT",爱玩具
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7110" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="iHOT",爱旅行
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7111" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="iHOT",爱幼教
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7112" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="iHOT",爱历史
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7113" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="iHOT",爱科学
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="7114" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="iHOT",爱动漫
-#http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7101" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="iHOT",爱院线
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7102" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="iHOT",爱科幻
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7103" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="iHOT",爱浪漫
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7104" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="iHOT",爱喜剧
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7105" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="iHOT",爱悬疑
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7106" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="iHOT",爱谍战
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7107" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="iHOT",爱赛车
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7108" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="iHOT",爱奇谈
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7109" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="iHOT",爱玩具
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7110" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="iHOT",爱旅行
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7111" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="iHOT",爱幼教
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7112" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="iHOT",爱历史
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7113" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="iHOT",爱科学
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#  /*注释*/  EXTINF:-1 tvg-id="7114" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="iHOT",爱动漫
+#  /*注释*/  http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
 #电影轮播
 #EXTINF:-1 tvg-id="7201" tvg-name="" group-title="电影轮播",吃米滴虫
