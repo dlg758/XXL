@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="爱亚洲" tvg-logo="https://live.fanmingming.com/tv/爱亚洲.png" group-title="2V6",爱亚洲
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱亚洲" tvg-logo="https://live.fanmingming.com/tv/爱亚洲.png" group-title="2V6",1
+http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
+#EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="2V6",2
+http://escape.hw-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8
 #EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="2V6",爱电竞
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="2V6",爱电竞
-http://111.13.111.242/0000000000001000/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3&HlsProfileId=
+http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8?p=GITV&area=GD_CUCC&$2M SD
 #EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="2V6",爱谍战
 http://111.13.111.242/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3&HlsProfileId=
 
