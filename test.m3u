@@ -1,15 +1,123 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",动作
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",高清
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",家庭
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",1
-http://118.248.175.202:8888/udp/239.76.245.243:1234
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",2
-http://118.248.175.202:8888/udp/239.76.245.242:1234
-#EXTINF:-1 tvg-name="求索记录" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",3
-http://118.248.175.202:8888/udp/239.76.245.241:1234
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://github.com/dlg758/XXL/blob/main/logo/cctv/cctv1.png" group-title="2V6",求索科学
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱亚洲" tvg-logo="https://live.fanmingming.com/tv/爱亚洲.png" group-title="2V6",爱亚洲
+http://39.134.136.161:6610/123412341000/2123412344123412346/index.m3u8?channel-id=hnbblive&Contentid=2123412344123412346&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="2V6",爱电竞
+http://39.134.136.161:6610/123412341000/2123412344123400054/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400054&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="2V6",爱电竞
+http://39.134.136.161:6610/123412341000/6123412346000230630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000230630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="2V6",爱谍战
+http://39.134.136.161:6610/123412341000/2123412344123400038/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400038&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="2V6",爱谍战
+http://39.134.136.161:6610/123412341000/6123412346123470630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123470630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="2V6",爱动漫
+http://39.134.136.161:6610/123412341000/2123412344123400059/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400059&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="2V6",爱动漫
+http://39.134.136.161:6610/123412341000/6123412346000280630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000280630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱都市" tvg-logo="https://live.fanmingming.com/tv/爱都市.png" group-title="2V6",爱都市
+http://39.134.136.161:6610/123412341000/2123412344123400039/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400039&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱都市" tvg-logo="https://live.fanmingming.com/tv/爱都市.png" group-title="2V6",爱都市
+http://39.134.136.161:6610/123412341000/6123412346123480630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123480630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="2V6",爱怀旧
+http://39.134.136.161:6610/123412341000/2123412344123400057/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400057&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="2V6",爱怀旧
+http://39.134.136.161:6610/123412341000/6123412346000260630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000260630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱极限" tvg-logo="https://live.fanmingming.com/tv/爱极限.png" group-title="2V6",爱极限
+http://39.134.136.161:6610/123412341000/2123412344123400048/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400048&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱极限" tvg-logo="https://live.fanmingming.com/tv/爱极限.png" group-title="2V6",爱极限
+http://39.134.136.161:6610/123412341000/6123412346000170630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000170630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱家庭" tvg-logo="https://live.fanmingming.com/tv/爱家庭.png" group-title="2V6",爱家庭
+http://39.134.136.161:6610/123412341000/2123412344123400040/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400040&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱家庭" tvg-logo="https://live.fanmingming.com/tv/爱家庭.png" group-title="2V6",爱家庭
+http://39.134.136.161:6610/123412341000/6123412346123490630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123490630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱江湖" tvg-logo="https://live.fanmingming.com/tv/爱江湖.png" group-title="2V6",爱江湖
+http://39.134.136.161:6610/123412341000/2123412344123400042/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400042&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱江湖" tvg-logo="https://live.fanmingming.com/tv/爱江湖.png" group-title="2V6",爱江湖
+http://39.134.136.161:6610/123412341000/6123412346000110630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000110630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱解密" tvg-logo="https://live.fanmingming.com/tv/爱解密.png" group-title="2V6",爱解密
+http://39.134.136.161:6610/123412341000/2123412344123400051/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400051&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱解密" tvg-logo="https://live.fanmingming.com/tv/爱解密.png" group-title="2V6",爱解密
+http://39.134.136.161:6610/123412341000/6123412346000200630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000200630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱经典" tvg-logo="https://live.fanmingming.com/tv/爱经典.png" group-title="2V6",爱经典
+http://39.134.136.161:6610/123412341000/2123412344123400037/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400037&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱经典" tvg-logo="https://live.fanmingming.com/tv/爱经典.png" group-title="2V6",爱经典
+http://39.134.136.161:6610/123412341000/6123412346123460630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123460630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="2V6",爱科幻
+http://39.134.136.161:6610/123412341000/2123412344123400033/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400033&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="2V6",爱科幻
+http://39.134.136.161:6610/123412341000/6123412346123420630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123420630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://live.fanmingming.com/tv/爱科学.png" group-title="2V6",爱科学
+http://39.134.136.161:6610/123412341000/2123412344123400047/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400047&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://live.fanmingming.com/tv/爱科学.png" group-title="2V6",爱科学
+http://39.134.136.161:6610/123412341000/6123412346000160630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000160630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://live.fanmingming.com/tv/爱浪漫.png" group-title="2V6",爱浪漫
+http://39.134.136.161:6610/123412341000/2123412344123400035/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400035&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://live.fanmingming.com/tv/爱浪漫.png" group-title="2V6",爱浪漫
+http://39.134.136.161:6610/123412341000/6123412346123440630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123440630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱历史" tvg-logo="https://live.fanmingming.com/tv/爱历史.png" group-title="2V6",爱历史
+http://39.134.136.161:6610/123412341000/2123412344123400046/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400046&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱历史" tvg-logo="https://live.fanmingming.com/tv/爱历史.png" group-title="2V6",爱历史
+http://39.134.136.161:6610/123412341000/6123412346000150630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000150630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱猎奇" tvg-logo="https://live.fanmingming.com/tv/爱猎奇.png" group-title="2V6",爱猎奇
+http://39.134.136.161:6610/123412341000/2123412344123400050/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400050&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱猎奇" tvg-logo="https://live.fanmingming.com/tv/爱猎奇.png" group-title="2V6",爱猎奇
+http://39.134.136.161:6610/123412341000/6123412346000190630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000190630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://live.fanmingming.com/tv/爱旅行.png" group-title="2V6",爱旅行
+http://39.134.136.161:6610/123412341000/2123412344123400056/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400056&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://live.fanmingming.com/tv/爱旅行.png" group-title="2V6",爱旅行
+http://39.134.136.161:6610/123412341000/6123412346000250630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000250630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱美食" tvg-logo="https://live.fanmingming.com/tv/爱美食.png" group-title="2V6",爱美食
+http://39.134.136.161:6610/123412341000/2123412344123400043/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400043&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱美食" tvg-logo="https://live.fanmingming.com/tv/爱美食.png" group-title="2V6",爱美食
+http://39.134.136.161:6610/123412341000/6123412346000120630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000120630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="2V6",爱奇谈
+http://39.134.136.161:6610/123412341000/2123412344123400058/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400058&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="2V6",爱奇谈
+http://39.134.136.161:6610/123412341000/6123412346000270630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000270630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱青春" tvg-logo="https://live.fanmingming.com/tv/爱青春.png" group-title="2V6",爱青春
+http://39.134.136.161:6610/123412341000/2123412344123400041/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400041&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱青春" tvg-logo="https://live.fanmingming.com/tv/爱青春.png" group-title="2V6",爱青春
+http://39.134.136.161:6610/123412341000/6123412346000100630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000100630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="2V6",爱赛车
+http://39.134.136.161:6610/123412341000/2123412344123400055/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400055&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="2V6",爱赛车
+http://39.134.136.161:6610/123412341000/6123412346000240630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000240630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱时尚" tvg-logo="https://live.fanmingming.com/tv/爱时尚.png" group-title="2V6",爱时尚
+http://39.134.136.161:6610/123412341000/2123412344123400045/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400045&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱时尚" tvg-logo="https://live.fanmingming.com/tv/爱时尚.png" group-title="2V6",爱时尚
+http://39.134.136.161:6610/123412341000/6123412346000140630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000140630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱世界" tvg-logo="https://live.fanmingming.com/tv/爱世界.png" group-title="2V6",爱世界
+http://39.134.136.161:6610/123412341000/2123412344123400052/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400052&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱世界" tvg-logo="https://live.fanmingming.com/tv/爱世界.png" group-title="2V6",爱世界
+http://39.134.136.161:6610/123412341000/6123412346000210630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000210630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱探索" tvg-logo="https://live.fanmingming.com/tv/爱探索.png" group-title="2V6",爱探索
+http://39.134.136.161:6610/123412341000/2123412344123400061/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400061&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱探索" tvg-logo="https://live.fanmingming.com/tv/爱探索.png" group-title="2V6",爱探索
+http://39.134.136.161:6610/123412341000/6123412346000300630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000300630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="2V6",爱体育
+http://39.134.136.161:6610/123412341000/2123412344123400060/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400060&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="2V6",爱体育
+http://39.134.136.161:6610/123412341000/6123412346000290630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000290630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="2V6",爱玩具
+http://39.134.136.161:6610/123412341000/2123412344123400053/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400053&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="2V6",爱玩具
+http://39.134.136.161:6610/123412341000/6123412346000220630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000220630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="2V6",爱喜剧
+http://39.134.136.161:6610/123412341000/2123412344123400032/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400032&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="2V6",爱喜剧
+http://39.134.136.161:6610/123412341000/6123412346123410630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123410630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="2V6",爱悬疑
+http://39.134.136.161:6610/123412341000/2123412344123400036/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400036&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="2V6",爱悬疑
+http://39.134.136.161:6610/123412341000/6123412346123450630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123450630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="2V6",爱幼教
+http://39.134.136.161:6610/123412341000/2123412344123400049/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400049&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="2V6",爱幼教
+http://39.134.136.161:6610/123412341000/6123412346000180630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000180630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱娱乐" tvg-logo="https://live.fanmingming.com/tv/爱娱乐.png" group-title="2V6",爱娱乐
+http://39.134.136.161:6610/123412341000/2123412344123400044/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400044&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱娱乐" tvg-logo="https://live.fanmingming.com/tv/爱娱乐.png" group-title="2V6",爱娱乐
+http://39.134.136.161:6610/123412341000/6123412346000130630/index.m3u8?channel-id=wasusyt&Contentid=6123412346000130630&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="2V6",爱院线
+http://39.134.136.161:6610/123412341000/2123412344123400034/index.m3u8?channel-id=hnbblive&Contentid=2123412344123400034&livemode=1&stbId=3$ITV
+#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="2V6",爱院线
+http://39.134.136.161:6610/123412341000/6123412346123430630/index.m3u8?channel-id=wasusyt&Contentid=6123412346123430630&livemode=1&stbId=3$ITV
