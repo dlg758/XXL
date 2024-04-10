@@ -171,7 +171,7 @@ http://119.118.170.190:8888/rtp/232.0.0.47:1234
 #EXTINF:-1 tvg-id="217" tvg-name="第一剧场" tvg-logo="https://epg.112114.xyz/logo/第一剧场.png" group-title="数字高清",第一剧场
 http://119.118.170.190:8888/rtp/232.0.0.29:1234
 #EXTINF:-1 tvg-id="218" tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="数字高清",女性时尚
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+http://gzly.softether.net:6005/udp/239.252.219.94:5140
 #EXTINF:-1 tvg-id="219" tvg-name="风云足球" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="数字高清",风云足球
 http://119.118.170.190:8888/rtp/232.0.0.52:1234
 #EXTINF:-1 tvg-id="220" tvg-name="兵器科技" tvg-logo="https://epg.112114.xyz/logo/兵器科技.png" group-title="数字高清",兵器科技
@@ -179,7 +179,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 tvg-id="221" tvg-name="怀旧剧场" tvg-logo="https://epg.112114.xyz/logo/怀旧剧场.png" group-title="数字高清",怀旧剧场
 http://119.118.170.190:8888/rtp/232.0.0.38:1234
 #EXTINF:-1 tvg-id="222" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="数字高清",世界地理
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://gzly.softether.net:6005/udp/239.252.219.93:5140
 #EXTINF:-1 tvg-id="223" tvg-name="文化精品" tvg-logo="https://epg.112114.xyz/logo/文化精品.png" group-title="数字高清",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="224" tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/央视台球.png" group-title="数字高清",央视台球
