@@ -1,55 +1,11 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="神医喜来乐" group-title="电视剧轮播",神医喜来乐
-https://live.metshop.top/yy/1382714119
-#EXTINF:-1 tvg-name="斗破苍穹玄幻剧" group-title="电视剧轮播",斗破苍穹玄幻剧
-https://live.metshop.top/yy/1356051105
-#EXTINF:-1 tvg-name="隋唐英雄传 蓝光" group-title="电视剧轮播",隋唐英雄传 蓝光
-https://live.metshop.top/yy/1352475619
-#EXTINF:-1 tvg-name="幸福满院" group-title="电视剧轮播",幸福满院
-https://live.metshop.top/yy/1382737886
-#EXTINF:-1 tvg-name="抗日奇侠 首播" group-title="电视剧轮播",抗日奇侠 首播
-https://live.metshop.top/yy/39204655
-#EXTINF:-1 tvg-name="大秧歌" group-title="电视剧轮播",大秧歌
-https://live.metshop.top/yy/1460463356
-#EXTINF:-1 tvg-name="东北一家人" group-title="电视剧轮播",东北一家人
-https://live.metshop.top/yy/1355273385
-#EXTINF:-1 tvg-name="【二炮手】孙红雷" group-title="电视剧轮播",【二炮手】孙红雷
-https://live.metshop.top/yy/1354330324
-#EXTINF:-1 tvg-name="火蓝刀锋" group-title="电视剧轮播",火蓝刀锋
-https://live.metshop.top/yy/1382737892
-#EXTINF:-1 tvg-name="武工队传奇" group-title="电视剧轮播",武工队传奇
-https://live.metshop.top/yy/1354790484
-#EXTINF:-1 tvg-name="御龙修仙传4" group-title="电视剧轮播",御龙修仙传4
-https://live.metshop.top/yy/1355268573
-#EXTINF:-1 tvg-name="薛元帅传奇" group-title="电视剧轮播",薛元帅传奇
-https://live.metshop.top/yy/31313785
-#EXTINF:-1 tvg-name="破案港剧" group-title="电视剧轮播",破案港剧
-https://live.metshop.top/yy/1350670730
-#EXTINF:-1 tvg-name="天道-9.2高分好剧" group-title="电视剧轮播",天道-9.2高分好剧
-https://live.metshop.top/yy/1382735574
-#EXTINF:-1 tvg-name="案发现场（1-3）" group-title="电视剧轮播",案发现场（1-3）
-https://live.metshop.top/yy/31368110
-#EXTINF:-1 tvg-name="【雪豹】超经典" group-title="电视剧轮播",【雪豹】超经典
-https://live.metshop.top/yy/1450496699
-#EXTINF:-1 tvg-name="读心神探" group-title="电视剧轮播",读心神探
-https://live.metshop.top/yy/1382736875
-#EXTINF:-1 tvg-name="锦绣未央" group-title="电视剧轮播",锦绣未央
-https://live.metshop.top/yy/36568220
-#EXTINF:-1 tvg-name="金婚" group-title="电视剧轮播",金婚
-https://live.metshop.top/yy/1382828768
-#EXTINF:-1 tvg-name="红楼梦1987经典版" group-title="电视剧轮播",红楼梦1987经典版
-https://live.metshop.top/yy/1382745084
-#EXTINF:-1 tvg-name="金玉满堂：精彩港剧" group-title="电视剧轮播",金玉满堂：精彩港剧
-https://live.metshop.top/yy/1382736881
-#EXTINF:-1 tvg-name="爱的迫降-韩剧" group-title="电视剧轮播",爱的迫降-韩剧
-https://live.metshop.top/yy/1354889042
-#EXTINF:-1 tvg-name="强盛高启强 正在直播" group-title="电视剧轮播",强盛高启强 正在直播
-https://live.metshop.top/yy/37347905
-#EXTINF:-1 tvg-name="大汉天子S3" group-title="电视剧轮播",大汉天子S3
-https://live.metshop.top/yy/1382736810
-#EXTINF:-1 tvg-name="大明宫词" group-title="电视剧轮播",大明宫词
-https://live.metshop.top/yy/1382745190
-#EXTINF:-1 tvg-name="一卷风云琅琊榜" group-title="电视剧轮播",一卷风云琅琊榜
-https://live.metshop.top/yy/26958525
-#EXTINF:-1 tvg-name="【陪你看】新水浒传" group-title="电视剧轮播",【陪你看】新水浒传
-https://live.metshop.top/yy/38090300
+#EXTINF:-1 tvg-name="好久不见-武林外传" tvg-logo="https://live.fanmingming.com/tv/好久不见-武林外传.png" group-title="武林外传",好久不见-武林外传
+https://live.metshop.top/yy/1355914397
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://live.fanmingming.com/tv/武林外传.png" group-title="武林外传",武林外传
+https://live.metshop.top/yy/1354752120
+#EXTINF:-1 tvg-name="武林外传爆笑全场" tvg-logo="https://live.fanmingming.com/tv/武林外传爆笑全场.png" group-title="武林外传",武林外传爆笑全场
+https://live.metshop.top/yy/1355269576
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://live.fanmingming.com/tv/武林外传.png" group-title="武林外传",武林外传
+https://live.metshop.top/yy/1353852605
+#EXTINF:-1 tvg-name="武林外传-超清下饭剧" tvg-logo="https://live.fanmingming.com/tv/武林外传-超清下饭剧.png" group-title="武林外传",武林外传-超清下饭剧
+https://live.metshop.top/yy/1353085648
