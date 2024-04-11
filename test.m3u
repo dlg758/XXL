@@ -1,23 +1,19 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="速度与激情全集" ,速度与激情全集
-https://live.metshop.top/yy/1382749892
-#EXTINF:-1 tvg-name="古惑仔全集" ,古惑仔全集
-https://live.metshop.top/yy/1460889796
-#EXTINF:-1 tvg-name="变形金刚" ,变形金刚
-https://live.metshop.top/yy/1382736803
-#EXTINF:-1 tvg-name="第一滴血全集" ,第一滴血全集
-https://live.metshop.top/yy/1354932355
-#EXTINF:-1 tvg-name="木乃伊全集" ,木乃伊全集
-https://live.metshop.top/yy/1354889024
-#EXTINF:-1 tvg-name="漫威超级英雄系列" ,漫威超级英雄系列
-https://live.metshop.top/yy/1354932402
-#EXTINF:-1 tvg-name="雷神系列" ,雷神系列
-https://live.metshop.top/yy/1354932441
-#EXTINF:-1 tvg-name="哈利波特全集" ,哈利波特全集
-https://live.metshop.top/yy/1382745105
-#EXTINF:-1 tvg-name="碟中谍系列-国外动作大片" ,碟中谍系列-国外动作大片
-https://live.metshop.top/yy/1354930181
-#EXTINF:-1 tvg-name="银河护卫队-国外科幻巨作" ,银河护卫队-国外科幻巨作
-https://live.metshop.top/yy/1382736815
-#EXTINF:-1 tvg-name="加勒比海盗系列" ,加勒比海盗系列
-https://live.metshop.top/yy/1382749914
+#EXTINF:-1 tvg-name="24H国漫热播" group-title="动漫",24H国漫热播
+https://live.metshop.top/yy/1353937086
+#EXTINF:-1 tvg-name="斗罗斗破" group-title="动漫",斗罗斗破
+https://live.metshop.top/yy/1354768828
+#EXTINF:-1 tvg-name="少年歌行【蓝光】" group-title="动漫",少年歌行【蓝光】
+https://live.metshop.top/yy/1450556636
+#EXTINF:-1 tvg-name="双月之城-国漫" group-title="动漫",双月之城-国漫
+https://live.metshop.top/yy/1382736907
+#EXTINF:-1 tvg-name="宇宙护卫队--国漫" group-title="动漫",宇宙护卫队--国漫
+https://live.metshop.top/yy/1382736837
+#EXTINF:-1 tvg-name="【陪你看】金刚葫芦娃" group-title="动漫",【陪你看】金刚葫芦娃
+https://live.metshop.top/yy/1353323999
+#EXTINF:-1 tvg-name="漫画解说" group-title="动漫",漫画解说
+https://live.metshop.top/yy/1382735568
+#EXTINF:-1 tvg-name="熊出没-国漫" group-title="动漫",熊出没-国漫
+https://live.metshop.top/yy/1354936157
+#EXTINF:-1 tvg-name="熊仔之正义守护-国漫" group-title="动漫",熊仔之正义守护-国漫
+https://live.metshop.top/yy/1382736836
