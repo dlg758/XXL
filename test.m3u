@@ -183,3 +183,39 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Xiaomi_TV",YG TV (EU)
 https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv兵器科技.png" group-title="ASIA_CHINA (long time to connect )",CCTV 兵器科技
+https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv央视台球.png" group-title="ASIA_CHINA (long time to connect )",CCTV 央视台球
+https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv央视文化精品.png" group-title="ASIA_CHINA (long time to connect )",CCTV 央视文化精品
+https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv怀旧剧场.png" group-title="ASIA_CHINA (long time to connect )",CCTV 怀旧剧场
+https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv第一剧场.png" group-title="ASIA_CHINA (long time to connect )",CCTV 第一剧场
+https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云剧场.png" group-title="ASIA_CHINA (long time to connect )",CCTV 风云剧场
+https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云足球.png" group-title="ASIA_CHINA (long time to connect )",CCTV 风云足球
+https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv风云音乐.png" group-title="ASIA_CHINA (long time to connect )",CCTV 风云音乐
+https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/cctv高尔夫网球.png" group-title="ASIA_CHINA (long time to connect )",CCTV 高尔夫·网球
+https://live.goodiptv.club/api/cqyx.php?id=golfHD
+#EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",中國-斗魚外語電影
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",中國-斗魚外語電影
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",中國-斗魚外語電影
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",中國-斗魚外語電影
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",中國-斗魚外語電影
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/凤凰卫视中文台.png" group-title="ASIA_CHINA (long time to connect )",凤凰中文
+http://wot2020.asuscomm.com:20121/bysid/258
+#EXTINF:-1 group-title="ASIA_CHINA (long time to connect )",凤凰电影
+http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/凤凰卫视资讯台.png" group-title="ASIA_CHINA (long time to connect )",凤凰资讯
+http://wot2020.asuscomm.com:20121/bysid/257
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/凤凰卫视香港台.png" group-title="ASIA_CHINA (long time to connect )",凤凰香港
+http://wot2020.asuscomm.com:20121/bysid/259
