@@ -551,6 +551,31 @@ http://epg.112114.xyz/douyu/10240510
 #EXTINF:-1 tvg-id="7275" tvg-name="" group-title="电影轮播",国外电影
 http://epg.112114.xyz/douyu/9683979
 
+#合集
+#EXTINF:-1 tvg-id="1" tvg-name="速度与激情全集" group-title="合集",速度与激情全集
+https://live.metshop.top/yy/1382749892
+#EXTINF:-1 tvg-id="2" tvg-name="古惑仔全集" group-title="合集",古惑仔全集
+https://live.metshop.top/yy/1460889796
+#EXTINF:-1 tvg-id="3" tvg-name="变形金刚系列" group-title="合集",变形金刚系列
+https://live.metshop.top/yy/1382736803
+#EXTINF:-1 tvg-id="4" tvg-name="第一滴血全集" group-title="合集",第一滴血全集
+https://live.metshop.top/yy/1354932355
+#EXTINF:-1 tvg-id="5" tvg-name="木乃伊全集" group-title="合集",木乃伊全集
+https://live.metshop.top/yy/1354889024
+#EXTINF:-1 tvg-id="6" tvg-name="漫威超级英雄系列" group-title="合集",漫威超级英雄系列
+https://live.metshop.top/yy/1354932402
+#EXTINF:-1 tvg-id="7" tvg-name="雷神系列" group-title="合集",雷神系列
+https://live.metshop.top/yy/1354932441
+#EXTINF:-1 tvg-id="8" tvg-name="哈利波特全集" group-title="合集",哈利波特全集
+https://live.metshop.top/yy/1382745105
+#EXTINF:-1 tvg-id="9" tvg-name="碟中谍系列" group-title="合集",碟中谍系列
+https://live.metshop.top/yy/1354930181
+#EXTINF:-1 tvg-id="10" tvg-name="银河护卫队系列" group-title="合集",银河护卫队系列
+https://live.metshop.top/yy/1382736815
+#EXTINF:-1 tvg-id="11" tvg-name="加勒比海盗系列" group-title="合集",加勒比海盗系列
+https://live.metshop.top/yy/1382749914
+
+
 #春晚/1983-2024
 #EXTINF:-1 tvg-id="1983" tvg-name="" group-title="春晚回味",春晚1983
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
