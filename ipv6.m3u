@@ -550,6 +550,10 @@ http://epg.112114.xyz/douyu/6003761
 http://epg.112114.xyz/douyu/10240510
 #EXTINF:-1 tvg-id="7275" tvg-name="" group-title="电影轮播",国外电影
 http://epg.112114.xyz/douyu/9683979
+#EXTINF:-1 tvg-id="7276" tvg-name="" group-title="电影轮播",影视轮播7276
+https://live.metshop.top/yy/1354936157
+#EXTINF:-1 tvg-id="7277" tvg-name="" group-title="电影轮播",影视轮播7277
+https://live.metshop.top/yy/1382736836
 
 #合集
 #EXTINF:-1 tvg-id="1" tvg-name="速度与激情全集" group-title="合集",速度与激情全集
@@ -693,6 +697,12 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://tv.iill.top/huya/11601963
 #EXTINF:-1 tvg-id="10002" tvg-name="" group-title="动漫",猫和老鼠
 https://tv.iill.top/huya/11352879
+#EXTINF:-1 tvg-id="10003" tvg-name="" group-title="动漫",国漫
+https://live.metshop.top/yy/1382736837
+#EXTINF:-1 tvg-id="10004" tvg-name="" group-title="动漫",国漫热播-24H
+https://live.metshop.top/yy/1353937086
+#EXTINF:-1 tvg-id="10005" tvg-name="斗罗斗破" group-title="动漫",斗罗斗破
+https://live.metshop.top/yy/1354768828
 
 #电视剧轮播
 #EXTINF:-1 tvg-id="3001" tvg-name="" group-title="电视剧轮播",射雕英雄传
@@ -707,3 +717,7 @@ https://live.metshop.top/yy/1354936241
 https://live.metshop.top/yy/1353892468
 #EXTINF:-1 tvg-id="3006" tvg-name="" group-title="电视剧轮播",水浒传
 https://live.metshop.top/yy/23206872
+#EXTINF:-1 tvg-id="3007" tvg-name="" group-title="电视剧轮播",少年歌行
+https://live.metshop.top/yy/1450556636
+#EXTINF:-1 tvg-id="3008" tvg-name="" group-title="电视剧轮播",神探狄仁杰
+https://live.metshop.top/yy/1382736907
