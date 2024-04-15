@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 group-title="•影视",「轮播」跳舞
+https://tv.iill.top/huya/24634408
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://live.fanmingming.com/tv/天龙八部.png" group-title="天龙八部",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="天龙八部蓝光" tvg-logo="https://live.fanmingming.com/tv/天龙八部蓝光.png" group-title="天龙八部",凤凰资讯
