@@ -251,8 +251,8 @@ http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="303" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="国际时事",凤凰香港
 http://mywlkj.ddns.net:754/tv/fhhk.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="国际时事",NHK World
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="国际时事",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://113.64.145.61:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="305" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" group-title="国际时事",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="306" tvg-name="AlJazeera" tvg-logo="https://epg.112114.xyz/logo/ALJAZEERA.png" group-title="国际时事",AlJazeera
@@ -285,6 +285,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
 #EXTINF:-1 tvg-id="320" tvg-name="CGTN العربية" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="国际时事",CGTN العربية
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
+#EXTINF:-1 tvg-id="321" tvg-name="NHK World" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="国际时事",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 #北京/8个频道
 #EXTINF:-1 tvg-id="1501" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="地方特色",纪实科教
