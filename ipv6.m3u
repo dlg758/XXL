@@ -307,102 +307,101 @@ http://183.242.49.77:8787/live/BTV%E7%94%9F%E6%B4%BB/index.m3u8
 http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
 
 #NewTV/31个频道
-#EXTINF:-1 tvg-id="7001" tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
+#EXTINF:-1 tvg-id="7001" tvg-name="newtv超级综艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVzongyi.png" group-title="NewTV系列",超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="7002" tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="NewTV系列",超级体育
+#EXTINF:-1 tvg-id="7002" tvg-name="newtv超级体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVtiyu.png" group-title="NewTV系列",超级体育
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="7003" tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="NewTV系列",超级电影
+#EXTINF:-1 tvg-id="7003" tvg-name="newtv超级电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVdianying.png" group-title="NewTV系列",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="7004" tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电视剧.png" group-title="NewTV系列",超级电视剧
+#EXTINF:-1 tvg-id="7004" tvg-name="newtv超级电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVdianshiju.png" group-title="NewTV系列",超级电视剧
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="7005" tvg-name="newtv海外剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV海外剧场.png" group-title="NewTV系列",海外剧场
+#EXTINF:-1 tvg-id="7005" tvg-name="newtv海外剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVhaiwaijuchang.png" group-title="NewTV系列",海外剧场
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="7006" tvg-name="newtv中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV中国功夫.png" group-title="NewTV系列",中国功夫
+#EXTINF:-1 tvg-id="7006" tvg-name="newtv中国功夫" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVzhongguogongfu.png" group-title="NewTV系列",中国功夫
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 tvg-id="7007" tvg-name="newtv军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV军旅剧场.png" group-title="NewTV系列",军旅剧场
+#EXTINF:-1 tvg-id="7007" tvg-name="newtv军旅剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjunlvjuchang.png" group-title="NewTV系列",军旅剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="7008" tvg-name="newtv精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品萌宠.png" group-title="NewTV系列",精品萌宠
+#EXTINF:-1 tvg-id="7008" tvg-name="newtv精品萌宠" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjingpinmengchong.png" group-title="NewTV系列",精品萌宠
 http://[2409:8087:1a0b:df::400c]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="7009" tvg-name="newtv惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="NewTV系列",惊悚悬疑
+#EXTINF:-1 tvg-id="7009" tvg-name="newtv惊悚悬疑" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjingsongxuanyi.png" group-title="NewTV系列",惊悚悬疑
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 tvg-id="7010" tvg-name="newtv潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png" group-title="NewTV系列",潮妈辣婆
+#EXTINF:-1 tvg-id="7010" tvg-name="newtv潮妈辣婆" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVchaomalapo.png" group-title="NewTV系列",潮妈辣婆
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-id="7011" tvg-name="newtv精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="NewTV系列",精品体育
+#EXTINF:-1 tvg-id="7011" tvg-name="newtv精品体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjingpintiyu.png" group-title="NewTV系列",精品体育
 http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-id="7012" tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品纪录.png" group-title="NewTV系列",精品纪录
+#EXTINF:-1 tvg-id="7012" tvg-name="newtv精品纪录" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjingpinjilu.png" group-title="NewTV系列",精品纪录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 tvg-id="7013" tvg-name="newtv家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV家庭剧场.png" group-title="NewTV系列",家庭剧场
+#EXTINF:-1 tvg-id="7013" tvg-name="newtv家庭剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjiatingjuchang.png" group-title="NewTV系列",家庭剧场
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 tvg-id="7014" tvg-name="newtv精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="NewTV系列",精品大剧
+#EXTINF:-1 tvg-id="7014" tvg-name="newtv精品大剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjingpindaju.png" group-title="NewTV系列",精品大剧
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="7015" tvg-name="newtv军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV军事评论.png" group-title="NewTV系列",军事评论
+#EXTINF:-1 tvg-id="7015" tvg-name="newtv军事评论" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjunshipinglun.png" group-title="NewTV系列",军事评论
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-id="7016" tvg-name="newtv明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV明星大片.png" group-title="NewTV系列",明星大片
+#EXTINF:-1 tvg-id="7016" tvg-name="newtv明星大片" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVmingxingdapian.png" group-title="NewTV系列",明星大片
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-id="7017" tvg-name="newtv东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV东北热剧.png" group-title="NewTV系列",东北热剧
+#EXTINF:-1 tvg-id="7017" tvg-name="newtv东北热剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVdongbeireju.png" group-title="NewTV系列",东北热剧
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="7018" tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV系列",欢乐剧场
+#EXTINF:-1 tvg-id="7018" tvg-name="newtv欢乐剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVhuanyaojuchang.png" group-title="NewTV系列",欢乐剧场
 http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="7019" tvg-name="NewTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV爱情喜剧.png" group-title="NewTV系列",爱情喜剧
+#EXTINF:-1 tvg-id="7019" tvg-name="NewTV爱情喜剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVaiqingxiju.png" group-title="NewTV系列",爱情喜剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="7020" tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",超级综艺
+#EXTINF:-1 tvg-id="7020" tvg-name="NewTV超级综艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVzongyi.png" group-title="NewTV系列",超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="7021" tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV动作电影.png" group-title="NewTV系列",动作电影
+#EXTINF:-1 tvg-id="7021" tvg-name="NewTV动作电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTV.png" group-title="NewTV系列",动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 tvg-id="7022" tvg-name="NewTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV古装剧场.png" group-title="NewTV系列",古装剧场
+#EXTINF:-1 tvg-id="7022" tvg-name="NewTV古装剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVguzhuangjuchang.png" group-title="NewTV系列",古装剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 tvg-id="7023" tvg-name="NewTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="NewTV系列",金牌综艺
+#EXTINF:-1 tvg-id="7023" tvg-name="NewTV金牌综艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVjinpaizongyi.png" group-title="NewTV系列",金牌综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="7024" tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV农业致富.png" group-title="NewTV系列",农业致富
+#EXTINF:-1 tvg-id="7024" tvg-name="NewTV农业致富" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVnongye.png" group-title="NewTV系列",农业致富
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 tvg-id="7025" tvg-name="NewTV武搏世界" tvg-logo="https://live.fanmingming.com/tv/NEWTV武搏世界.png" group-title="NewTV系列",武搏世界
+#EXTINF:-1 tvg-id="7025" tvg-name="NewTV武搏世界" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTV.png" group-title="NewTV系列",武搏世界
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 tvg-id="7026" tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV炫舞未来.png" group-title="NewTV系列",炫舞未来
+#EXTINF:-1 tvg-id="7026" tvg-name="NewTV炫舞未来" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTVxuanwuweilai.png" group-title="NewTV系列",炫舞未来
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-#EXTINF:-1 tvg-id="7027" tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NEWTV怡伴健康.png" group-title="NewTV系列",怡伴健康
+#EXTINF:-1 tvg-id="7027" tvg-name="NewTV怡伴健康" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/NEWTV.png" group-title="NewTV系列",怡伴健康
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#  /*注释*/  EXTINF:-1 tvg-id="7028" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="NewTV系列",SiTV都市剧场
+#  /*注释*/  EXTINF:-1 tvg-id="7028" tvg-name="SiTV都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/Sitv.png" group-title="NewTV系列",SiTV都市剧场
 #  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-#  /*注释*/  EXTINF:-1 tvg-id="7029" tvg-name="SiTV欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/SiTV欢笑剧场4K.png" group-title="NewTV系列",SiTV欢笑剧场4K
+#  /*注释*/  EXTINF:-1 tvg-id="7029" tvg-name="SiTV欢笑剧场4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/Sitv.png" group-title="NewTV系列",SiTV欢笑剧场4K
 #  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-#  /*注释*/  EXTINF:-1 tvg-id="7030" tvg-name="SiTV全纪实" tvg-logo="https://live.fanmingming.com/tv/SiTV全纪实.png" group-title="NewTV系列",SiTV全纪实
+#  /*注释*/  EXTINF:-1 tvg-id="7030" tvg-name="SiTV全纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/Sitv.png" group-title="NewTV系列",SiTV全纪实
 #  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
-#  /*注释*/  EXTINF:-1 tvg-id="7031" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="NewTV系列",SiTV游戏风云
+#  /*注释*/  EXTINF:-1 tvg-id="7031" tvg-name="SiTV游戏风云" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/newtv/Sitv.png" group-title="NewTV系列",SiTV游戏风云
 #  /*注释*/  http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 
 
 #iHOT频道/15个频道
-#EXTINF:-1 tvg-id="7101" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="iHOT",爱院线
+#EXTINF:-1 tvg-id="7101" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTyuanxian.png" group-title="iHOT",爱院线
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7102" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="iHOT",爱科幻
+#EXTINF:-1 tvg-id="7102" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTkehuan.png" group-title="iHOT",爱科幻
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7103" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱浪漫.png" group-title="iHOT",爱浪漫
+#EXTINF:-1 tvg-id="7103" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTlangman.png" group-title="iHOT",爱浪漫
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7104" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="iHOT",爱喜剧
+#EXTINF:-1 tvg-id="7104" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTxiju.png" group-title="iHOT",爱喜剧
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7105" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="iHOT",爱悬疑
+#EXTINF:-1 tvg-id="7105" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTxuanni.png" group-title="iHOT",爱悬疑
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7106" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="iHOT",爱谍战
+#EXTINF:-1 tvg-id="7106" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTdianzhan.png" group-title="iHOT",爱谍战
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7107" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="iHOT",爱赛车
+#EXTINF:-1 tvg-id="7107" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTshaiche.png" group-title="iHOT",爱赛车
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7108" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="iHOT",爱奇谈
+#EXTINF:-1 tvg-id="7108" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTqitan.png" group-title="iHOT",爱奇谈
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7109" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="iHOT",爱玩具
+#EXTINF:-1 tvg-id="7109" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTwangju.png" group-title="iHOT",爱玩具
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7110" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱旅行.png" group-title="iHOT",爱旅行
+#EXTINF:-1 tvg-id="7110" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTlvxing.png" group-title="iHOT",爱旅行
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7111" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="iHOT",爱幼教
+#EXTINF:-1 tvg-id="7111" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTyoujiao.png" group-title="iHOT",爱幼教
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7112" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱历史.png" group-title="iHOT",爱历史
+#EXTINF:-1 tvg-id="7112" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTlishi.png" group-title="iHOT",爱历史
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7113" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱科学.png" group-title="iHOT",爱科学
+#EXTINF:-1 tvg-id="7113" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTkexue.png" group-title="iHOT",爱科学
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7114" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="iHOT",爱动漫
+#EXTINF:-1 tvg-id="7114" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTdongman.png" group-title="iHOT",爱动漫
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="7115" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="iHOT",爱体育
+#EXTINF:-1 tvg-id="7115" tvg-name="" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/ihot/IHOTtiyu.png" group-title="iHOT",爱体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
-
 
 #电影轮播
 #EXTINF:-1 tvg-id="7201" tvg-name="" group-title="电影轮播",吃米滴虫
