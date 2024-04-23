@@ -150,108 +150,108 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="207" tvg-name="求索生活" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/qiusuo/qiusuoshenghuo.png" group-title="数字高清",求索生活
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="208" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="数字高清",黑莓电影
+#EXTINF:-1 tvg-id="208" tvg-name="黑莓电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/heimeidianying.png" group-title="数字高清",黑莓电影
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="209" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字高清",黑莓动画
+#EXTINF:-1 tvg-id="209" tvg-name="黑莓动画" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/heimeidonghua.png" group-title="数字高清",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="210" tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="数字高清",哒啵电竞
+#EXTINF:-1 tvg-id="210" tvg-name="哒啵电竞" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/dabodianjing.png" group-title="数字高清",哒啵电竞
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
-#EXTINF:-1 tvg-id="211" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="数字高清",哒啵赛事
+#EXTINF:-1 tvg-id="211" tvg-name="哒啵赛事" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/dabosaishi.png" group-title="数字高清",哒啵赛事
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="212" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字高清",乐游
+#EXTINF:-1 tvg-id="212" tvg-name="乐游" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/leyou.png" group-title="数字高清",乐游
 https://itv.lat/tv/live.php?&line=1&id=qjs
-#EXTINF:-1 tvg-id="213" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字高清",纪实人文
+#EXTINF:-1 tvg-id="213" tvg-name="纪实人文" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/jishirenwen.png" group-title="数字高清",纪实人文
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="214" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字高清",纯享4K
+#EXTINF:-1 tvg-id="214" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/4K.png" group-title="数字高清",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="215" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字高清",风云剧场
+#EXTINF:-1 tvg-id="215" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/fengyunjuchang.png" group-title="数字高清",风云剧场
 http://148.135.93.213:81/live.php?id=风云剧场
-#EXTINF:-1 tvg-id="216" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="数字高清",风云音乐
+#EXTINF:-1 tvg-id="216" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/fengyunyinyao.png" group-title="数字高清",风云音乐
 http://148.135.93.213:81/live.php?id=风云音乐
-#EXTINF:-1 tvg-id="217" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="数字高清",第一剧场
+#EXTINF:-1 tvg-id="217" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/diyijuchang.png" group-title="数字高清",第一剧场
 http://148.135.93.213:81/live.php?id=第一剧场
-#EXTINF:-1 tvg-id="218" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="数字高清",女性时尚
+#EXTINF:-1 tvg-id="218" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/nvxingshishang.png" group-title="数字高清",女性时尚
 http://148.135.93.213:81/live.php?id=女性时尚
-#EXTINF:-1 tvg-id="219" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="数字高清",风云足球
+#EXTINF:-1 tvg-id="219" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/fengyunzuqiu.png" group-title="数字高清",风云足球
 http://148.135.93.213:81/live.php?id=风云足球
-#EXTINF:-1 tvg-id="220" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="数字高清",兵器科技
+#EXTINF:-1 tvg-id="220" tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/bingqikeji.png" group-title="数字高清",兵器科技
 http://148.135.93.213:81/live.php?id=兵器科技
-#EXTINF:-1 tvg-id="221" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="数字高清",怀旧剧场
+#EXTINF:-1 tvg-id="221" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/huaijiujuchang.png" group-title="数字高清",怀旧剧场
 http://148.135.93.213:81/live.php?id=怀旧剧场
-#EXTINF:-1 tvg-id="222" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="数字高清",世界地理
+#EXTINF:-1 tvg-id="222" tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/shijiedili.png" group-title="数字高清",世界地理
 http://148.135.93.213:81/live.php?id=世界地理
-#EXTINF:-1 tvg-id="223" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="数字高清",文化精品
+#EXTINF:-1 tvg-id="223" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/wenhuajingpin.png" group-title="数字高清",文化精品
 http://148.135.93.213:81/live.php?id=文化精品
-#EXTINF:-1 tvg-id="224" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="数字高清",央视台球
+#EXTINF:-1 tvg-id="224" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/yangshitaiqiu.png" group-title="数字高清",央视台球
 http://148.135.93.213:81/live.php?id=央视台球
-#EXTINF:-1 tvg-id="225" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="数字高清",高尔夫网球
+#EXTINF:-1 tvg-id="225" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/yangshigaowang.png" group-title="数字高清",高尔夫网球
 http://148.135.93.213:81/live.php?id=央视高网
-#EXTINF:-1 tvg-id="226" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="数字高清",电视指南
+#EXTINF:-1 tvg-id="226" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/dianshizhina.png" group-title="数字高清",电视指南
 http://148.135.93.213:81/live.php?id=电视指南
-#EXTINF:-1 tvg-id="227" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字高清",都市剧场
+#EXTINF:-1 tvg-id="227" tvg-name="都市剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/doushijuchang.png" group-title="数字高清",都市剧场
 http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
-#EXTINF:-1 tvg-id="228" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字高清",金色学堂
+#EXTINF:-1 tvg-id="228" tvg-name="金色学堂" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/jinsexuetang.png" group-title="数字高清",金色学堂
 #http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="229" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="数字高清",哈哈炫动
+#EXTINF:-1 tvg-id="229" tvg-name="哈哈炫动" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/xuandong.png" group-title="数字高清",哈哈炫动
 #http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="230" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字高清",游戏风云
+#EXTINF:-1 tvg-id="230" tvg-name="游戏风云" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/youxifengyun.png" group-title="数字高清",游戏风云
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
-#EXTINF:-1 tvg-id="231" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字高清",欢笑剧场
+#EXTINF:-1 tvg-id="231" tvg-name="欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/huanxiaojuchang.png" group-title="数字高清",欢笑剧场
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="数字高清",七彩戏剧
+#EXTINF:-1 tvg-id="232" tvg-name="七彩戏剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/qicaixiju.png" group-title="数字高清",七彩戏剧
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="233" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字高清",第一财经
+#EXTINF:-1 tvg-id="233" tvg-name="第一财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/diyicaijing.png" group-title="数字高清",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 tvg-id="234" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字高清",武术世界
+#EXTINF:-1 tvg-id="234" tvg-name="武术世界" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/wushushijie.png" group-title="数字高清",武术世界
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-#EXTINF:-1 tvg-id="235" tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字高清",文物宝库
+#EXTINF:-1 tvg-id="235" tvg-name="文物宝库" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/wenwubaoku.png" group-title="数字高清",文物宝库
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-#EXTINF:-1 tvg-id="236" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="数字高清",梨园频道
+#EXTINF:-1 tvg-id="236" tvg-name="梨园频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/liyuan.png" group-title="数字高清",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 tvg-id="237" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字高清",重温经典
+#EXTINF:-1 tvg-id="237" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/chongwenjingdian.png" group-title="数字高清",重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 tvg-id="238" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="数字高清",天元围棋
+#EXTINF:-1 tvg-id="238" tvg-name="天元围棋" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/tianyuanweiqi.png" group-title="数字高清",天元围棋
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
-#EXTINF:-1 tvg-id="239" tvg-name="弈坛春秋" tvg-logo="https://live.fanmingming.com/tv/弈坛春秋.png" group-title="数字高清",弈坛春秋
+#EXTINF:-1 tvg-id="239" tvg-name="弈坛春秋" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/yitanchunqiu.png" group-title="数字高清",弈坛春秋
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="240" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字高清",劲爆体育
+#EXTINF:-1 tvg-id="240" tvg-name="劲爆体育" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/jingbaotiyu.png" group-title="数字高清",劲爆体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="241" tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字高清",南国都市
+#EXTINF:-1 tvg-id="241" tvg-name="南国都市" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/nanguodushi.png" group-title="数字高清",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=ef020873e512e364b6fff2293799cda7&txTime=18db7262ee8
-#EXTINF:-1 tvg-id="242" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="数字高清",CNN
+#EXTINF:-1 tvg-id="242" tvg-name="CNN" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cnn/CNN.png" group-title="数字高清",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="243" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA-NEWS.png" group-title="数字高清",CNA
+#EXTINF:-1 tvg-id="243" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/cna.png" group-title="数字高清",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Taiwan Plus" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="数字高清",Taiwan Plus
+#EXTINF:-1 tvg-id="244" tvg-name="Taiwan Plus" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/TaiwanPlus.jpg" group-title="数字高清",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="245" tvg-name="寰球TV" tvg-logo="https://github.com/fanmingming/live/blob/main/radio/环球资讯.jpg" group-title="数字高清",寰球TV
+#EXTINF:-1 tvg-id="245" tvg-name="寰球TV" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/huanqiuzixun.jpg" group-title="数字高清",寰球TV
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 tvg-id="246" tvg-name="Love Nature-4K" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="数字高清",Love Nature-4K
+#EXTINF:-1 tvg-id="246" tvg-name="Love Nature-4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/LoveNature.png" group-title="数字高清",Love Nature-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="247" tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="数字高清",BBC Earth
+#EXTINF:-1 tvg-id="247" tvg-name="BBC Earth" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/BBCEarth.png" group-title="数字高清",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 tvg-id="248" tvg-name="Clarity 4K" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="数字高清",Clarity 4K
+#EXTINF:-1 tvg-id="248" tvg-name="Clarity 4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/LoveNature.png" group-title="数字高清",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 tvg-id="249" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="数字高清",Red Bull TV
+#EXTINF:-1 tvg-id="249" tvg-name="Red Bull TV" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/RedBullTV.png" group-title="数字高清",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="250" tvg-name="Trace Sports" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="数字高清",Trace Sports
+#EXTINF:-1 tvg-id="250" tvg-name="Trace Sports" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/RedBullTV.png" group-title="数字高清",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="251" tvg-name="Wild Planet" tvg-logo="https://live.fanmingming.com/tv/AnimalPlanet.png" group-title="数字高清",Wild Planet
+#EXTINF:-1 tvg-id="251" tvg-name="Wild Planet" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/AnimalPlanet.png" group-title="数字高清",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
-#EXTINF:-1 tvg-id="252" tvg-name="斗鱼?4K影院" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="数字高清",斗鱼?4K影院
+#EXTINF:-1 tvg-id="252" tvg-name="斗鱼?4K影院" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/4Kmovie.png" group-title="数字高清",斗鱼4K影院
 http://159.75.85.63:35455/douyu/9249162
-#EXTINF:-1 tvg-id="253" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="数字高清",爱上4K
+#EXTINF:-1 tvg-id="253" tvg-name="爱上4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/4Kmovie.png" group-title="数字高清",爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
 #国际频道/20个频道
-#EXTINF:-1 tvg-id="301" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际时事",凤凰中文
+#EXTINF:-1 tvg-id="301" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/hk/HKzw.png" group-title="国际时事",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="302" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际时事",凤凰资讯
+#EXTINF:-1 tvg-id="302" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/hk/HKzx.png" group-title="国际时事",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="303" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="国际时事",凤凰香港
+#EXTINF:-1 tvg-id="303" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/hk/HKxg.png" group-title="国际时事",凤凰香港
 http://mywlkj.ddns.net:754/tv/fhhk.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="国际时事",香港卫视
+#EXTINF:-1 tvg-id="304" tvg-name="香港卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/hk/HKws.png" group-title="国际时事",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://113.64.145.61:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="305" tvg-name="CNA" tvg-logo="https://live.fanmingming.com/tv/CNA.png" group-title="国际时事",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
