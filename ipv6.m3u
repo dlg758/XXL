@@ -222,9 +222,9 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=ef020873e512e364b6ff
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 tvg-id="243" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/cna.png" group-title="数字高清",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="244" tvg-name="Taiwan Plus" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/TaiwanPlus.jpg" group-title="数字高清",Taiwan Plus
+#EXTINF:-1 tvg-id="244" tvg-name="Taiwan Plus" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/TaiwanPlus.png" group-title="数字高清",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="245" tvg-name="寰球TV" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/huanqiuzixun.jpg" group-title="数字高清",寰球TV
+#EXTINF:-1 tvg-id="245" tvg-name="寰球TV" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/huanqiuzixun.png" group-title="数字高清",寰球TV
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="Love Nature-4K" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/shuzi/LoveNature.png" group-title="数字高清",Love Nature-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
