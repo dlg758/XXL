@@ -1,86 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="•影视",「轮播」跳舞
 https://tv.iill.top/huya/24634408
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="凤凰中文频道" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",凤凰中文频道
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰中文频道" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",凤凰中文频道
-http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文频道" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",凤凰中文频道
-http://112.19.171.156:9999/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰资讯频道" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频道.png",凤凰资讯频道
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯频道" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频道.png",凤凰资讯频道
-http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯频道" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频道.png",凤凰资讯频道
-http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯频道" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯频道.png",凤凰资讯频道
-http://103.95.24.37:880/fhzx.m3u8
-#EXTINF:-1 tvg-name="香港18频道台" tvg-logo="https://live.fanmingming.com/tv/香港18频道台.png",香港18频道台
-http://ali.hlspull.yximgs.com/live/9a83d37fe8da0475fb8c79e7159921c5.flv
-#EXTINF:-1 tvg-name="香港無綫新聞" tvg-logo="https://live.fanmingming.com/tv/香港無綫新聞.png",香港無綫新聞
-http://113.83.152.28:1935/bysid/83
-#EXTINF:-1 tvg-name="*HOY資訊频道" tvg-logo="https://live.fanmingming.com/tv/*HOY資訊频道.png",*HOY資訊频道
-http://113.83.152.28:1936/bysid/78
-#EXTINF:-1 tvg-name="香港凤凰频道" tvg-logo="https://live.fanmingming.com/tv/香港凤凰频道.png",香港凤凰频道
-http://113.83.152.28:1935/bysid/85
-#EXTINF:-1 tvg-name="香港明珠频道" tvg-logo="https://live.fanmingming.com/tv/香港明珠频道.png",香港明珠频道
-http://113.83.152.28:1935/bysid/2
-#EXTINF:-1 tvg-name="*HOY國際频道" tvg-logo="https://live.fanmingming.com/tv/*HOY國際频道.png",*HOY國際频道
-http://113.83.152.28:1936/bysid/76
-#EXTINF:-1 tvg-name="*HOYTV频道台" tvg-logo="https://live.fanmingming.com/tv/*HOYTV频道台.png",*HOYTV频道台
-http://113.83.152.28:1936/bysid/77
-#EXTINF:-1 tvg-name="TVB香港台频道" tvg-logo="https://live.fanmingming.com/tv/TVB香港台频道.png",TVB香港台频道
-http://113.83.152.28:1935/bysid/82
-#EXTINF:-1 tvg-name="香港無綫新聞" tvg-logo="https://live.fanmingming.com/tv/香港無綫新聞.png",香港無綫新聞
-http://zsntlqj.xicp.net:8896/bysid/83
-#EXTINF:-1 tvg-name="香港凤凰频道" tvg-logo="https://live.fanmingming.com/tv/香港凤凰频道.png",香港凤凰频道
-http://zsntlqj.xicp.net:8896/bysid/85
-#EXTINF:-1 tvg-name="TVB香港台频道" tvg-logo="https://live.fanmingming.com/tv/TVB香港台频道.png",TVB香港台频道
-http://zsntlqj.xicp.net:8896/bysid/82
-#EXTINF:-1 tvg-name="香港明珠频道" tvg-logo="https://live.fanmingming.com/tv/香港明珠频道.png",香港明珠频道
-http://zsntlqj.xicp.net:8896/bysid/83
-#EXTINF:-1 tvg-name="香港無綫新聞" tvg-logo="https://live.fanmingming.com/tv/香港無綫新聞.png",香港無綫新聞
-http://119.136.122.157:8001/bysid/83
-#EXTINF:-1 tvg-name="香港凤凰频道" tvg-logo="https://live.fanmingming.com/tv/香港凤凰频道.png",香港凤凰频道
-http://119.136.122.157:8001/bysid/85
-#EXTINF:-1 tvg-name="香港翡翠频道" tvg-logo="https://live.fanmingming.com/tv/香港翡翠频道.png",香港翡翠频道
-http://119.136.122.157:8000/bysid/1
-#EXTINF:-1 tvg-name="香港明珠频道" tvg-logo="https://live.fanmingming.com/tv/香港明珠频道.png",香港明珠频道
-http://119.136.122.157:8001/bysid/2
-#EXTINF:-1 tvg-name="TVB香港台频道" tvg-logo="https://live.fanmingming.com/tv/TVB香港台频道.png",TVB香港台频道
-http://119.136.122.157:8001/bysid/82
-#EXTINF:-1 tvg-name="香港31台高清" tvg-logo="https://live.fanmingming.com/tv/香港31台高清.png",香港31台高清
-http://119.136.122.157:8002/bysid/31
-#EXTINF:-1 tvg-name="香港32台高清" tvg-logo="https://live.fanmingming.com/tv/香港32台高清.png",香港32台高清
-http://119.136.122.157:8002/bysid/32
-#EXTINF:-1 tvg-name="香港33台高清" tvg-logo="https://live.fanmingming.com/tv/香港33台高清.png",香港33台高清
-http://119.136.122.157:8002/bysid/33
-#EXTINF:-1 tvg-name="香港34台高清" tvg-logo="https://live.fanmingming.com/tv/香港34台高清.png",香港34台高清
-http://119.136.122.157:8002/bysid/34
-#EXTINF:-1 tvg-name="ViuTVsix频道" tvg-logo="https://live.fanmingming.com/tv/ViuTVsix频道.png",ViuTVsix频道
-http://119.136.122.157:8000/bysid/96
-#EXTINF:-1 tvg-name="ViuTV香港台" tvg-logo="https://live.fanmingming.com/tv/ViuTV香港台.png",ViuTV香港台
-http://119.136.122.157:8000/bysid/99
-#EXTINF:-1 tvg-name="香港無綫新聞" tvg-logo="https://live.fanmingming.com/tv/香港無綫新聞.png",香港無綫新聞
-http://123.202.245.120:8008/bysid/83
-#EXTINF:-1 tvg-name="香港凤凰频道" tvg-logo="https://live.fanmingming.com/tv/香港凤凰频道.png",香港凤凰频道
-http://hikvision.city:880/fhxgt.m3u8
-#EXTINF:-1 tvg-name="香港凤凰频道" tvg-logo="https://live.fanmingming.com/tv/香港凤凰频道.png",香港凤凰频道
-http://123.202.245.120:8008/bysid/85
-#EXTINF:-1 tvg-name="香港凤凰频道" tvg-logo="https://live.fanmingming.com/tv/香港凤凰频道.png",香港凤凰频道
-http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
-#EXTINF:-1 tvg-name="HOY 資訊频道" tvg-logo="https://live.fanmingming.com/tv/HOY 資訊频道.png",HOY 資訊频道
-http://123.202.245.120:8009/bysid/78
-#EXTINF:-1 tvg-name="國際財經频道" tvg-logo="https://live.fanmingming.com/tv/國際財經频道.png",國際財經频道
-http://123.202.245.120:8009/bysid/76
-#EXTINF:-1 tvg-name="HOY TV  频道" tvg-logo="https://live.fanmingming.com/tv/HOY TV  频道.png",HOY TV  频道
-http://123.202.245.120:8009/bysid/77
-#EXTINF:-1 tvg-name="香港明珠频道" tvg-logo="https://live.fanmingming.com/tv/香港明珠频道.png",香港明珠频道
-http://123.202.245.120:8008/bysid/2
-#EXTINF:-1 tvg-name="香港TVB Plus" tvg-logo="https://live.fanmingming.com/tv/香港TVB Plus.png",香港TVB Plus
-http://123.202.245.120:8008/bysid/82
-#EXTINF:-1 tvg-name="香港翡翠频道" tvg-logo="https://live.fanmingming.com/tv/香港翡翠频道.png",香港翡翠频道
-http://zsntlqj.xicp.net:8895/bysid/1
-#EXTINF:-1 tvg-name="无线星河频道" tvg-logo="https://live.fanmingming.com/tv/无线星河频道.png",无线星河频道
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",Now爆谷台
+http://qq987099599.xnkj.dnse.lol/ls/爆谷.php?id=2
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",Now星影台
+http://qq987099599.xnkj.dnse.lol/ls/爆谷.php?id=3
+#EXTINF:-1 tvg-name="Now爆谷台1" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",Now爆谷台1
+http://qq987099599.xnkj.dnse.lol/ls/爆谷.php?id=1
+#EXTINF:-1 tvg-name="Now爆谷台4" tvg-logo="https://live.fanmingming.com/tv/凤凰中文频道.png",Now爆谷台4
+http://qq987099599.xnkj.dnse.lol/ls/爆谷.php?id=4
+
