@@ -3,8 +3,8 @@
 https://tv.iill.top/huya/24634408
 #EXTINF:-1 group-title="xxx",「轮播」跳舞
 http://?ip=108.181.32.169&id=64487f44000009c47489bec26ba13f81
-#EXTINF:-1 group-title="•影视",CCTV-5+(a)
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="•影视",妖神令
+https://v.cdnlz12.com/20240328/13574_081df2fa/index.m3u8
 #EXTINF:-1 group-title="•影视",CCTV-15(a)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 group-title="•影视",CCTV-16(a)
