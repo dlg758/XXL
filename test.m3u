@@ -1,65 +1,36 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://live.fanmingming.com/tv/爱院线.png" group-title="IHOT",爱院线
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.com/tv/爱电竞.png" group-title="IHOT",爱电竞
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://live.fanmingming.com/tv/爱谍战.png" group-title="IHOT",爱谍战
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000038/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://live.fanmingming.com/tv/爱动漫.png" group-title="IHOT",爱动漫
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱都市" tvg-logo="https://live.fanmingming.com/tv/爱都市.png" group-title="IHOT",爱都市
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000039/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000039&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱怀旧" tvg-logo="https://live.fanmingming.com/tv/爱怀旧.png" group-title="IHOT",爱怀旧
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000057&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱极限" tvg-logo="https://live.fanmingming.com/tv/爱极限.png" group-title="IHOT",爱极限
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000048/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000048&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱家庭" tvg-logo="https://live.fanmingming.com/tv/爱家庭.png" group-title="IHOT",爱家庭
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000040/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000040&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱江湖" tvg-logo="https://live.fanmingming.com/tv/爱江湖.png" group-title="IHOT",爱江湖
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000042/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000042&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱解密" tvg-logo="https://live.fanmingming.com/tv/爱解密.png" group-title="IHOT",爱解密
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000051/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000051&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱经典" tvg-logo="https://live.fanmingming.com/tv/爱经典.png" group-title="IHOT",爱经典
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000037/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000037&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://live.fanmingming.com/tv/爱科幻.png" group-title="IHOT",爱科幻
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000033&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://live.fanmingming.com/tv/爱科学.png" group-title="IHOT",爱科学
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000047/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000047&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://live.fanmingming.com/tv/爱浪漫.png" group-title="IHOT",爱浪漫
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000035/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱历史" tvg-logo="https://live.fanmingming.com/tv/爱历史.png" group-title="IHOT",爱历史
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000046/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱猎奇" tvg-logo="https://live.fanmingming.com/tv/爱猎奇.png" group-title="IHOT",爱猎奇
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000050/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000050&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱美食" tvg-logo="https://live.fanmingming.com/tv/爱美食.png" group-title="IHOT",爱美食
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000043/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000043&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://live.fanmingming.com/tv/爱赛车.png" group-title="IHOT",爱赛车
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000055/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000055&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱时尚" tvg-logo="https://live.fanmingming.com/tv/爱时尚.png" group-title="IHOT",爱时尚
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000045&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://live.fanmingming.com/tv/爱旅行.png" group-title="IHOT",爱旅行
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://live.fanmingming.com/tv/爱奇谈.png" group-title="IHOT",爱奇谈
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000058/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000058&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱青春" tvg-logo="https://live.fanmingming.com/tv/爱青春.png" group-title="IHOT",爱青春
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000041&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱世界" tvg-logo="https://live.fanmingming.com/tv/爱世界.png" group-title="IHOT",爱世界
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000052/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000052&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://live.fanmingming.com/tv/爱体育.png" group-title="IHOT",爱体育
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱探索" tvg-logo="https://live.fanmingming.com/tv/爱探索.png" group-title="IHOT",爱探索
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000061/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000061&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://live.fanmingming.com/tv/爱玩具.png" group-title="IHOT",爱玩具
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000053/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000053&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://live.fanmingming.com/tv/爱悬疑.png" group-title="IHOT",爱悬疑
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000036/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://live.fanmingming.com/tv/爱喜剧.png" group-title="IHOT",爱喜剧
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000032/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://live.fanmingming.com/tv/爱幼教.png" group-title="IHOT",爱幼教
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱娱乐" tvg-logo="https://live.fanmingming.com/tv/爱娱乐.png" group-title="IHOT",爱娱乐
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000044/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000044&livemode=1&stbId=3
-
+#EXTINF:-1 tvg-name="中国教育1 576" tvg-logo="https://live.fanmingming.com/tv/中国教育1 576.png" group-title="综合",中国教育1 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+#EXTINF:-1 tvg-name="中国教育2 576" tvg-logo="https://live.fanmingming.com/tv/中国教育2 576.png" group-title="综合",中国教育2 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+#EXTINF:-1 tvg-name="中国教育3 576" tvg-logo="https://live.fanmingming.com/tv/中国教育3 576.png" group-title="综合",中国教育3 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4 576" tvg-logo="https://live.fanmingming.com/tv/中国教育4 576.png" group-title="综合",中国教育4 576
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="综合",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="综合",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="综合",求索纪录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="综合",风云音乐
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="综合",风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="综合",怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="综合",世界地理
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="综合",文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="综合",央视台球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="综合",央视高网
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="综合",电视指南
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="综合",第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 
 
 #EXTINF:-1 tvg-name="aa001" tvg-logo="https://live.fanmingming.com/tv/aa001.png",aa001
