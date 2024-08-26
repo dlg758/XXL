@@ -37,269 +37,6 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000028/index.m3u8?
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•其他「IPV6」",BesTV 𝟟「IPV6」
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙「IPV6」
-http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚「IPV6」
-http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛「IPV6」
-http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜「IPV6」
-http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播4K Ⅰ「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播4K Ⅱ「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟙𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟚𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟞「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟟「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟠「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟛𝟡「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟘「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟙「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟚「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟛「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟜「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「全网」",咪咕直播 𝟜𝟝「IPV4」
-http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播4K Ⅰ「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播4K Ⅱ「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟙𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟚𝟡「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟞「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟟「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟠「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟛𝟡𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟘「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟙「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟚「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟛「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟜「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011530/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「移动」",咪咕直播 𝟜𝟝「移动」
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011531/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
-#INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:24 经典赛事 解说
-https://tv.iill.top/NBA/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」14:50 3X天津站 解说
-https://tv.iill.top/NBA/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」18:24 经典赛事 解说
-https://tv.iill.top/NBA/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」20:24 经典赛事 解说
-https://tv.iill.top/NBA/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」14:50 夏季联赛 福建浔兴股份vs四川金强 解说
-https://tv.iill.top/Migu/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」14:50 清流播出
-https://tv.iill.top/Migu/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:20 夏季联赛 天津先行者vs深圳马可波罗 解说
-https://tv.iill.top/Migu/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」15:20 清流播出
-https://tv.iill.top/Migu/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」17:50 夏季联赛 南京头排苏酒vs新疆伊力特 解说
-https://tv.iill.top/Migu/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」17:50 清流播出
-https://tv.iill.top/Migu/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」19:15 联赛 布莱顿vs曼联 解说
-https://tv.iill.top/Migu/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」19:15 联赛 布莱顿vs曼联 粤语AI字幕
-https://tv.iill.top/Migu/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」19:15 联赛 布莱顿vs曼联 闽南语AI字幕
-https://tv.iill.top/Migu/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」19:15 联赛 布莱顿vs曼联 沪语
-https://tv.iill.top/Migu/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 夏季联赛 山东高速vs九台农商银行 解说
-https://tv.iill.top/Migu/11
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 清流播出
-https://tv.iill.top/Migu/12
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」20:20 夏季联赛 江苏肯帝亚vs浙江稠州金租 解说
-https://tv.iill.top/Migu/13
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」20:20 清流播出
-https://tv.iill.top/Migu/14
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」21:45 联赛 曼城vs伊普斯维奇 解说
-https://tv.iill.top/Migu/15
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」21:50 联赛 富勒姆vs莱斯特城 解说
-https://tv.iill.top/Migu/16
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」21:50 联赛 南安普顿vs诺丁汉森林 解说
-https://tv.iill.top/Migu/17
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」21:50 联赛 托特纳姆热刺vs埃弗顿 解说
-https://tv.iill.top/Migu/18
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英超」21:50 联赛 水晶宫vs西汉姆联 解说
-https://tv.iill.top/Migu/19
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「西甲」22:50 联赛 奥萨苏纳vs马略卡 解说
-https://tv.iill.top/Migu/20
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「法甲」22:50 联赛 里昂vs摩纳哥 解说
-https://tv.iill.top/Migu/21
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 利马常规挑战赛：混双决赛、男女单打1/4决赛及半决赛、男女双打半决赛 1号桌
-https://tv.iill.top/Migu/22
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 利马常规挑战赛：混双决赛、男女单打1/4决赛及半决赛、男女双打半决赛 2号桌
-https://tv.iill.top/Migu/23
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」23:00 利马常规挑战赛：混双决赛、男女单打1/4决赛及半决赛、男女双打半决赛 英文解说
-https://tv.iill.top/Migu/24
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -436,7 +173,135 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000068/index.m3u8?
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.iill.top/logo/精彩影视.png" group-title="•数字「IPV6」",精彩影视「IPV6」
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
+#EXTINF:-1 tvg-id="[動畫-日] 龍珠超" tvg-name="[動畫-日] 龍珠超" tvg-logo="" group-title="輪播", [動畫-日] 龍珠超
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/8161456f6a80d8a8c1b77404f80a1a4e/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/0fd71f0f8a44e34f80478ab45861a57f/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 龍珠Z (001-100)" tvg-name="[動畫-日] 龍珠Z (001-100)" tvg-logo="" group-title="輪播", [動畫-日] 龍珠Z (001-100)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/7247b45f5bae7334eed13e6b60398a76/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/d4a124cc0e9bc28b1317455cac209fb3/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 龍珠Z (101-200)" tvg-name="[動畫-日] 龍珠Z (101-200)" tvg-logo="" group-title="輪播", [動畫-日] 龍珠Z (101-200)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/07a70bdaf5bf24a29089388569a16275/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/4171c59532ed99f39118277e19e9ceba/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 龍珠Z (201-291)" tvg-name="[動畫-日] 龍珠Z (201-291)" tvg-logo="" group-title="輪播", [動畫-日] 龍珠Z (201-291)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/6f588ee5942114a636bf77280682e014/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/844615c87b96f8c89f029b6319d145e1/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-粵] 男兒當入樽 (1-101)" tvg-name="[動畫-粵] 男兒當入樽 (1-101)" tvg-logo="" group-title="輪播", [動畫-粵] 男兒當入樽 (1-101)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/fc05bd0ad5dae96668ec1629c2d85b6a/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/09eb7ab479decd0d35f9394e069af137/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-普] 蜡笔小新1992" tvg-name="[動畫-普] 蜡笔小新1992" tvg-logo="" group-title="輪播", [動畫-普] 蜡笔小新1992
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/36d19b225bef75ff38a573e0f3210ffc/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/f24400e0dc732cff9bc07c5c83ef7789/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-普] 籃球高手 (1-101)" tvg-name="[動畫-普] 籃球高手 (1-101)" tvg-logo="" group-title="輪播", [動畫-普] 籃球高手 (1-101)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/2e13dec0d4d31d5d93fb71d5035fa44d/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/a3d971aa70fd6613d9062d949890c0aa/index.m3u8
+#EXTINF:-1 tvg-id="[陸劇-普] 武林外傳2006" tvg-name="[陸劇-普] 武林外傳2006" tvg-logo="" group-title="輪播", [陸劇-普] 武林外傳2006
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/358a14fc2b825c7d28d48586320881bf/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/cfe96d52d5cd40e5753ecd12454ff8ad/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 我和殭屍有個約會-1" tvg-name="[港劇-粵] 我和殭屍有個約會-1" tvg-logo="" group-title="輪播", [港劇-粵] 我和殭屍有個約會-1
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/5c8db48ddad42c0ef4ab386b15bb5818/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/4ab4bf27a5280a54adfa84c0b4d44d64/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 我和殭屍有個約會-2" tvg-name="[港劇-粵] 我和殭屍有個約會-2" tvg-logo="" group-title="輪播", [港劇-粵] 我和殭屍有個約會-2
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/25d4da8560bbfc3d8435ac109c67c5d7/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/192eb513408b568a16c2c55a66e8c0ad/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 我和殭屍有個約會-3" tvg-name="[港劇-粵] 我和殭屍有個約會-3" tvg-logo="" group-title="輪播", [港劇-粵] 我和殭屍有個約會-3
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/1196b8dd3b6735bf8e61326425153250/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/7b38aef32c39833d60a59f196a99c770/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 鹿鼎記1998" tvg-name="[港劇-粵] 鹿鼎記1998" tvg-logo="" group-title="輪播", [港劇-粵] 鹿鼎記1998
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/49fae83fd1df825be5464b7d2b7f69ed/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/419daf18a690ab0eb6d9f1867356415d/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 尋秦記 (古天樂)" tvg-name="[港劇-粵] 尋秦記 (古天樂)" tvg-logo="" group-title="輪播", [港劇-粵] 尋秦記 (古天樂)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/e3b9bda2c39b82e737ccdaa7f4ba27ae/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/9862f252043c66b12eb6960f96de5cfa/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 孖仔孖心肝 (周星馳)" tvg-name="[港劇-粵] 孖仔孖心肝 (周星馳)" tvg-logo="" group-title="輪播", [港劇-粵] 孖仔孖心肝 (周星馳)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/bbcbab809911efb3d3847c25fe5935fc/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/8bd8e4fee259a4abaf4bc2260796b3ac/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 男親女愛 (黃子華)" tvg-name="[港劇-粵] 男親女愛 (黃子華)" tvg-logo="" group-title="輪播", [港劇-粵] 男親女愛 (黃子華)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/8a5d5769789b88e45c9c5e0327e60c55/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/5d0ea5eb42a3382ac3a800ec2b7fb562/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 絕代商嬌 (黃子華)" tvg-name="[港劇-粵] 絕代商嬌 (黃子華)" tvg-logo="" group-title="輪播", [港劇-粵] 絕代商嬌 (黃子華)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/dacac6ce300ba1ab056803cac16e7796/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/5af05778a2eeed1b7931ef84eaf6e5bc/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 棟篤神探 (黃子華)" tvg-name="[港劇-粵] 棟篤神探 (黃子華)" tvg-logo="" group-title="輪播", [港劇-粵] 棟篤神探 (黃子華)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/e10e38b9935b662cc82a3649cee0c210/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/4416cb47c4cf175b5784a5d1a812405c/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 奸人堅 (黃子華)" tvg-name="[港劇-粵] 奸人堅 (黃子華)" tvg-logo="" group-title="輪播", [港劇-粵] 奸人堅 (黃子華)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/8e9bbf5955068d4351a47152394b9e9c/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/47e7a4cbd78251f0e6ba2b2e8262032c/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] My盛Lady (黃子華)" tvg-name="[港劇-粵] My盛Lady (黃子華)" tvg-logo="" group-title="輪播", [港劇-粵] My盛Lady (黃子華)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/0ac3790e0a8615b8040131ad9c12a27a/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/5e354ec4695c991b9d63e06336f2142f/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 笑傲江湖(1996)" tvg-name="[港劇-粵] 笑傲江湖(1996)" tvg-logo="" group-title="輪播", [港劇-粵] 笑傲江湖(1996)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/efa7c9cf5167c00b0d099ac6f4773af6/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/f57e81f90381ebe45b3e18a7b31766f5/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 蓋世豪俠 (周星馳)" tvg-name="[港劇-粵] 蓋世豪俠 (周星馳)" tvg-logo="" group-title="輪播", [港劇-粵] 蓋世豪俠 (周星馳)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/b8a2eda807a775a79901f076da13d452/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/4f0bf7ceccd3f46806a1fed6ded7acf5/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 他來自江湖 (周星馳)" tvg-name="[港劇-粵] 他來自江湖 (周星馳)" tvg-logo="" group-title="輪播", [港劇-粵] 他來自江湖 (周星馳)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/075ff348ea383c5eb55b86f9cd17d323/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/9d8eb1fbe6bcfc6a1f7272c2fd4da8b7/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 鬥氣一族 (周星馳)" tvg-name="[港劇-粵] 鬥氣一族 (周星馳)" tvg-logo="" group-title="輪播", [港劇-粵] 鬥氣一族 (周星馳)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/f4fe39896230fed08f531814983ae50f/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/582f46112ceb61c910ae54ad9fb630ae/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 溏心風暴Ⅰ" tvg-name="[港劇-粵] 溏心風暴Ⅰ" tvg-logo="" group-title="輪播", [港劇-粵] 溏心風暴Ⅰ
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/145816a6eed7d035a4324a7dfbdd6a38/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/26c6d9281206c34a37d787c9808be427/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 溏心風暴Ⅱ" tvg-name="[港劇-粵] 溏心風暴Ⅱ" tvg-logo="" group-title="輪播", [港劇-粵] 溏心風暴Ⅱ
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/1793938b16776aa149a3a6fb41c5602a/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/fb5e1237aad880ec8e8fe8a38335411f/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 溏心風暴Ⅲ" tvg-name="[港劇-粵] 溏心風暴Ⅲ" tvg-logo="" group-title="輪播", [港劇-粵] 溏心風暴Ⅲ
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/8d6d381688a35db4b0e0da93a0b2513e/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/ea8361a1ddf1f198ac021719a5685900/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 勇探實錄" tvg-name="[港劇-粵] 勇探實錄" tvg-logo="" group-title="輪播", [港劇-粵] 勇探實錄
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/a438e8a2a40ae865b9874c1785487077/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/7b90d935eab1b7d2c1227f2b32d316bd/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 我和殭屍有個約會-1" tvg-name="[港劇-普] 我和殭屍有個約會-1" tvg-logo="" group-title="輪播", [港劇-普] 我和殭屍有個約會-1
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/480dbf45d1d28f3bab08fe58c432a5b7/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/7dd3ae15cafa664056ec4a2919efdd2c/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 我和殭屍有個約會-2" tvg-name="[港劇-普] 我和殭屍有個約會-2" tvg-logo="" group-title="輪播", [港劇-普] 我和殭屍有個約會-2
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/e2e54eeb3f1743a31d990c7f37948f16/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/3d6071ccfae1caf0970a09072a2a8e14/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 我和殭屍有個約會-3" tvg-name="[港劇-普] 我和殭屍有個約會-3" tvg-logo="" group-title="輪播", [港劇-普] 我和殭屍有個約會-3
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/f9435e823b07ee8abad47b933386b484/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/fd0362c4ae890fc012037535eec3db0d/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 鹿鼎記1998" tvg-name="[港劇-普] 鹿鼎記1998" tvg-logo="" group-title="輪播", [港劇-普] 鹿鼎記1998
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/f909f66077da52eac91750968464b9dc/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/b552880616960535dffff457fa497c8f/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 尋秦記 (古天樂)" tvg-name="[港劇-普] 尋秦記 (古天樂)" tvg-logo="" group-title="輪播", [港劇-普] 尋秦記 (古天樂)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/467507d167a027d101d1cb1f6a959233/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/82e002f76def12f4f49fcf0a9c1c0fce/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 笑傲江湖(1996)" tvg-name="[港劇-普] 笑傲江湖(1996)" tvg-logo="" group-title="輪播", [港劇-普] 笑傲江湖(1996)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/d52173d85ccb046cbbfc669e591438d2/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/cbcd2fe5625f6caafb4a3ac671054ca5/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 勇探實錄" tvg-name="[港劇-普] 勇探實錄" tvg-logo="" group-title="輪播", [港劇-普] 勇探實錄
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/b108d1607c9f43d782dbeeff754250a1/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/ef2800f77da1a6006a02b16dbbde7945/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 權力的遊戲 (S1-S2)" tvg-name="[美劇-英] 權力的遊戲 (S1-S2)" tvg-logo="" group-title="輪播", [美劇-英] 權力的遊戲 (S1-S2)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/14a72f30432e0ed9adae3fb1f1e0ac69/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/0e3b56b71654e970c2cf26e28dd92607/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 權力的遊戲 (S3-S4)" tvg-name="[美劇-英] 權力的遊戲 (S3-S4)" tvg-logo="" group-title="輪播", [美劇-英] 權力的遊戲 (S3-S4)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/6a2aa7b5a4ea3a51bf03244657a0af21/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/cfa1f8f40bb57fc3a5513f2b6ac2cf71/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 權力的遊戲 (S5-S6)" tvg-name="[美劇-英] 權力的遊戲 (S5-S6)" tvg-logo="" group-title="輪播", [美劇-英] 權力的遊戲 (S5-S6)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/1ad131ef44d6d257e24f6595d2c3dabb/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/814377d7a31fb3176dc9016e7327095e/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 權力的遊戲 (S7-S8)" tvg-name="[美劇-英] 權力的遊戲 (S7-S8)" tvg-logo="" group-title="輪播", [美劇-英] 權力的遊戲 (S7-S8)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/d2b0e6eceaf8c4c7d7cc380e30727f9c/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/100a119774834580b1fbcbaa1d86ff83/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 越獄 (S1)" tvg-name="[美劇-英] 越獄 (S1)" tvg-logo="" group-title="輪播", [美劇-英] 越獄 (S1)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/241b75f287a28c9d928c7ada446ff0f5/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/781b6068d9804354d88ac8ff8ba88d68/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 越獄 (S2)" tvg-name="[美劇-英] 越獄 (S2)" tvg-logo="" group-title="輪播", [美劇-英] 越獄 (S2)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/c1634215bc3e014c9a16c1ef068b3125/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/1ae81f5ab937488b42e527c197588457/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 越獄 (S3-S4)" tvg-name="[美劇-英] 越獄 (S3-S4)" tvg-logo="" group-title="輪播", [美劇-英] 越獄 (S3-S4)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/84bdcd49e2d4b29d01d795a02b67f3c1/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/7c227823f3357900d808016579a667fe/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 越獄-最後一越 (S5)" tvg-name="[美劇-英] 越獄-最後一越 (S5)" tvg-logo="" group-title="輪播", [美劇-英] 越獄-最後一越 (S5)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/b9c8b3d2f30f331021c9e641d4ac441e/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/a4d9351fb4f918538b344276c8cce43d/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 絕命毒師 (S1-S3)" tvg-name="[美劇-英] 絕命毒師 (S1-S3)" tvg-logo="" group-title="輪播", [美劇-英] 絕命毒師 (S1-S3)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/f27ff4e64866f5e4d0de6877f47c9f44/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/8c0547b81d9713f47e8e9c36a90eeec2/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 絕命毒師 (S4-S5)" tvg-name="[美劇-英] 絕命毒師 (S4-S5)" tvg-logo="" group-title="輪播", [美劇-英] 絕命毒師 (S4-S5)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/50c8e0b2c38b63f5bc2f1b158202411f/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/1b73654ec84570c2c6f064f045df87c0/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 斯巴達克斯 (S1-S4)" tvg-name="[美劇-英] 斯巴達克斯 (S1-S4)" tvg-logo="" group-title="輪播", [美劇-英] 斯巴達克斯 (S1-S4)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/10577797edbee34dedf61f707995f5de/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/fde68fc1f4c84cfee9ca2b64c669b5a8/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] The Wire (S1-S5)" tvg-name="[美劇-英] The Wire (S1-S5)" tvg-logo="" group-title="輪播", [美劇-英] The Wire (S1-S5)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/3ec8c6eef831fe4bb9150e0a042d3884/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/961d3436186f8f34b5d0c9051ded8a61/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 絕命律師 (S1-S3)" tvg-name="[美劇-英] 絕命律師 (S1-S3)" tvg-logo="" group-title="輪播", [美劇-英] 絕命律師 (S1-S3)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/4a88e81509e957a1f2a84e7afd24e349/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/1ce64504cc7bde93bacaa8890252d041/index.m3u8
+#EXTINF:-1 tvg-id="[美劇-英] 絕命律師 (S4-S6)" tvg-name="[美劇-英] 絕命律師 (S4-S6)" tvg-logo="" group-title="輪播", [美劇-英] 絕命律師 (S4-S6)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/f1c73203152dacaeaa2d197bd9b59e0a/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/b4fb1fc34daf1fa76199d9dff119d4cb/index.m3u8
+#EXTINF:-1 tvg-id="[電影-英] 電鋸驚魂" tvg-name="[電影-英] 電鋸驚魂" tvg-logo="" group-title="輪播", [電影-英] 電鋸驚魂
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/191a7da50a707783340d774aa924ff39/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/5f7613918ac60732509ca69000111601/index.m3u8
+#EXTINF:-1 tvg-id="[電影-英] 哈利波特 (1-8)" tvg-name="[電影-英] 哈利波特 (1-8)" tvg-logo="" group-title="輪播", [電影-英] 哈利波特 (1-8)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/0c1e747e2cd70b49ce18507fd42a4af9/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/703294c59900a1d33302d6b95fced715/index.m3u8
+#EXTINF:-1 tvg-id="[電影-英] 加勒比海盜 (S1-S5)" tvg-name="[電影-英] 加勒比海盜 (S1-S5)" tvg-logo="" group-title="輪播", [電影-英] 加勒比海盜 (S1-S5)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/77634d854eb58a56086c651589dbdb9b/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/2bbb1fa7a95c2cfe25eb7a94f338d299/index.m3u8
+#EXTINF:-1 tvg-id="[電影-英] 玩命關頭[S1-S10&特別行動]" tvg-name="[電影-英] 玩命關頭[S1-S10&特別行動]" tvg-logo="" group-title="輪播", [電影-英] 玩命關頭[S1-S10&特別行動]
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/105a7ecfc492d8751b3c851ff3a604a2/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/ad16d17feab4a40da75ce145b6902657/index.m3u8
+#EXTINF:-1 tvg-id="[電影-粵] 哈利波特 (1-8)" tvg-name="[電影-粵] 哈利波特 (1-8)" tvg-logo="" group-title="輪播", [電影-粵] 哈利波特 (1-8)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/6debd6dd4e951b8f31da5b45d75e15eb/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/fa78e98a092030861e7d9cdd770f73a7/index.m3u8
+#EXTINF:-1 tvg-id="[電影-英] 變形金剛 合輯" tvg-name="[電影-英] 變形金剛 合輯" tvg-logo="" group-title="輪播", [電影-英] 變形金剛 合輯
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/37a4200fa0c66383c8be10073fd16384/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/d9b115c8f3af60d9f5bd002534decbbd/index.m3u8
+#EXTINF:-1 tvg-id="[電影-普] 變形金剛 合輯" tvg-name="[電影-普] 變形金剛 合輯" tvg-logo="" group-title="輪播", [電影-普] 變形金剛 合輯
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/1e62a98f88935fe450a570a1cc90d7c8/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/cab2dd92e702ebe7e1f20d367deae81e/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 火影忍者 (1-180)" tvg-name="[動畫-日] 火影忍者 (1-180)" tvg-logo="" group-title="輪播", [動畫-日] 火影忍者 (1-180)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/91f1c099460858e1d0e9eb268d9ff44a/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/7d7e98b23ef791f56bbb8f9528287b1e/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 火影忍者 (181-360)" tvg-name="[動畫-日] 火影忍者 (181-360)" tvg-logo="" group-title="輪播", [動畫-日] 火影忍者 (181-360)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/45309934546c844e831cec08e07f7ae4/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/f77124c0708338242363324b08e60b6b/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 火影忍者 (361-540)" tvg-name="[動畫-日] 火影忍者 (361-540)" tvg-logo="" group-title="輪播", [動畫-日] 火影忍者 (361-540)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/e8686901d43c463bbdb93cf22495769c/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/e9eda9aa9c326fc8f10fb1f1f2aeda98/index.m3u8
+#EXTINF:-1 tvg-id="[動畫-日] 火影忍者 (541-720)" tvg-name="[動畫-日] 火影忍者 (541-720)" tvg-logo="" group-title="輪播", [動畫-日] 火影忍者 (541-720)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/5a36e4ff194a140592e84d77791d0d84/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/3c6566746800d4696a1d51f740bbc874/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-粵] 神鵰俠侶 (古天樂)" tvg-name="[港劇-粵] 神鵰俠侶 (古天樂)" tvg-logo="" group-title="輪播", [港劇-粵] 神鵰俠侶 (古天樂)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/5c1b2fb2142e32ea0e9c6cc5d10f3890/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/4bf8059d696a6408136fd6c34f584f2a/index.m3u8
+#EXTINF:-1 tvg-id="[港劇-普] 神鵰俠侶 (古天樂)" tvg-name="[港劇-普] 神鵰俠侶 (古天樂)" tvg-logo="" group-title="輪播", [港劇-普] 神鵰俠侶 (古天樂)
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/d2d2e104303b9e5d74e9b534faad0138/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/78a73cdb14613bf2107857a6d6ad112e/index.m3u8#EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="" group-title="福利", Test
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/99434722ef7313d73da19ea6b245ff3c/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/446379fbdddf6c54a5620b6e442afd73/index.m3u8
+#EXTINF:-1 tvg-id="Test2" tvg-name="Test2" tvg-logo="" group-title="福利", Test2
+http://2025.xnkj.dnse.lol/1id/ethtv.php?url=http://sedum.notessedum.com/af89446901aac1161fafc9665912feab/1c5c47becf333f1c2e71t04bd5ed3fcb805ae7eek6r5a1b8d9ea5fda872b7c78/dd18c7572f6fa68799ed27685fafa1da/index.m3u8
 
 
 #EXTINF:-1 tvg-name="aa001" tvg-logo="https://live.fanmingming.com/tv/aa001.png",aa001
