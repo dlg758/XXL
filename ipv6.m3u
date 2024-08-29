@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV01" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV02" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CCTV2.png" group-title="央视高清",CCTV-2 财经
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV03" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CCTV3.png" group-title="央视高清",CCTV-3 综艺
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV04" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
