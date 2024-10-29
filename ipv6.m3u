@@ -396,161 +396,162 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 
 #2024新片
-#EXTINF:-1 tvg-name="🔥潜行" tvg-logo="https://live.fanmingming.com/tv/🔥潜行.png" group-title="2024新片",🔥潜行
+#2024新片
+#EXTINF:-1 tvg-name="潜行" group-title="2024新片",潜行
 https://yzzy1.play-cdn20.com/20240314/19480_87c97112/index.m3u8
-#EXTINF:-1 tvg-name="狂暴巨蜥" tvg-logo="https://live.fanmingming.com/tv/狂暴巨蜥.png" group-title="2024新片",狂暴巨蜥
+#EXTINF:-1 tvg-name="狂暴巨蜥" group-title="2024新片",狂暴巨蜥
 https://v.cdnlz12.com/20240327/13508_eaee7b94/index.m3u8
-#EXTINF:-1 tvg-name="扫黑行动之黄金" tvg-logo="https://live.fanmingming.com/tv/扫黑行动之黄金.png" group-title="2024新片",扫黑行动之黄金
+#EXTINF:-1 tvg-name="扫黑行动之黄金" group-title="2024新片",扫黑行动之黄金
 https://v.cdnlz12.com/20240326/13458_d6285376/index.m3u8
-#EXTINF:-1 tvg-name="妖神令" tvg-logo="https://live.fanmingming.com/tv/妖神令.png" group-title="2024新片",妖神令
+#EXTINF:-1 tvg-name="妖神令" group-title="2024新片",妖神令
 https://v.cdnlz12.com/20240328/13574_081df2fa/index.m3u8
-#EXTINF:-1 tvg-name="天地正气" tvg-logo="https://live.fanmingming.com/tv/天地正气.png" group-title="2024新片",天地正气
+#EXTINF:-1 tvg-name="天地正气" group-title="2024新片",天地正气
 https://v.cdnlz12.com/20240324/13368_682d336b/index.m3u8
-#EXTINF:-1 tvg-name="除暴安良" tvg-logo="https://live.fanmingming.com/tv/除暴安良.png" group-title="2024新片",除暴安良
+#EXTINF:-1 tvg-name="除暴安良" group-title="2024新片",除暴安良
 https://v.cdnlz7.com/20240302/16255_e02cc774/index.m3u8
-#EXTINF:-1 tvg-name="最后的法师" tvg-logo="https://live.fanmingming.com/tv/最后的法师.png" group-title="2024新片",最后的法师
+#EXTINF:-1 tvg-name="最后的法师" group-title="2024新片",最后的法师
 https://v.cdnlz11.com/20231112/18264_bf1bd3e6/index.m3u8
-#EXTINF:-1 tvg-name="第三个嫌疑人" tvg-logo="https://live.fanmingming.com/tv/第三个嫌疑人.png" group-title="2024新片",第三个嫌疑人
+#EXTINF:-1 tvg-name="第三个嫌疑人" group-title="2024新片",第三个嫌疑人
 https://v.cdnlz12.com/20240324/13369_6e36581e/index.m3u8
-#EXTINF:-1 tvg-name="🔥新威龙杀阵" tvg-logo="https://live.fanmingming.com/tv/🔥新威龙杀阵.png" group-title="2024新片",🔥新威龙杀阵
+#EXTINF:-1 tvg-name="新威龙杀阵" group-title="2024新片",新威龙杀阵
 https://v.cdnlz12.com/20240321/13258_0f96066a/index.m3u8
-#EXTINF:-1 tvg-name="🔥末日战士" tvg-logo="https://live.fanmingming.com/tv/🔥末日战士.png" group-title="2024新片",🔥末日战士
+#EXTINF:-1 tvg-name="末日战士" group-title="2024新片",末日战士
 https://v.cdnlz12.com/20240313/12834_ce325fe0/index.m3u8
-#EXTINF:-1 tvg-name="🔥周公伏妖" tvg-logo="https://live.fanmingming.com/tv/🔥周公伏妖.png" group-title="2024新片",🔥周公伏妖
+#EXTINF:-1 tvg-name="周公伏妖" group-title="2024新片",周公伏妖
 https://v.cdnlz12.com/20240313/12832_28e8b06c/index.m3u8
-#EXTINF:-1 tvg-name="🔥少女斗恶龙" tvg-logo="https://live.fanmingming.com/tv/🔥少女斗恶龙.png" group-title="2024新片",🔥少女斗恶龙
+#EXTINF:-1 tvg-name="少女斗恶龙" group-title="2024新片",少女斗恶龙
 https://v.cdnlz12.com/20240308/12567_d5565b64/index.m3u8
-#EXTINF:-1 tvg-name="🔥临时劫案" tvg-logo="https://live.fanmingming.com/tv/🔥临时劫案.png" group-title="2024新片",🔥临时劫案
+#EXTINF:-1 tvg-name="临时劫案" group-title="2024新片",临时劫案
 https://v.cdnlz12.com/20240306/12466_cad8e71b/2000k/hls/mixed.m3u8#https://yzzy.play-cdn19.com/20240306/22153_c54de4da/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="🔥周处除三害" tvg-logo="https://live.fanmingming.com/tv/🔥周处除三害.png" group-title="2024新片",🔥周处除三害
+#EXTINF:-1 tvg-name="周处除三害" group-title="2024新片",周处除三害
 https://vip.ffzyread.com/20240301/24303_f0da8c06/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="🔥陌路狂刀" tvg-logo="https://live.fanmingming.com/tv/🔥陌路狂刀.png" group-title="2024新片",🔥陌路狂刀
+#EXTINF:-1 tvg-name="陌路狂刀" group-title="2024新片",陌路狂刀
 https://v.cdnlz12.com/20240308/12526_77ee2ef5/2000k/hls/mixed.m3u8#https://yzzy1.play-cdn1.com/20240308/19202_84e12afe/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="🔥聊斋志异之瞳人语" tvg-logo="https://live.fanmingming.com/tv/🔥聊斋志异之瞳人语.png" group-title="2024新片",🔥聊斋志异之瞳人语
+#EXTINF:-1 tvg-name="聊斋志异之瞳人语" group-title="2024新片",聊斋志异之瞳人语
 https://yzzy1.play-cdn20.com/20240305/18516_cd41cda3/2000k/hls/mixed.m3u8#https://hn.bfvvs.com/play/RdGJDE0b/index.m3u8
-#EXTINF:-1 tvg-name="🔥[智利]雕形拳" tvg-logo="https://live.fanmingming.com/tv/🔥[智利]雕形拳.png" group-title="2024新片",🔥[智利]雕形拳
+#EXTINF:-1 tvg-name="[智利]雕形拳" group-title="2024新片",[智利]雕形拳
 https://vip1.lz-cdn1.com/20230608/21094_b12a3627/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="热辣滚烫TC" tvg-logo="https://live.fanmingming.com/tv/热辣滚烫TC.png" group-title="2024新片",热辣滚烫TC
+#EXTINF:-1 tvg-name="热辣滚烫TC" group-title="2024新片",热辣滚烫TC
 https://vip.ffzy-online2.com/20240216/48497_7124419f/2000k/hls/mixed.m3u8#https://vip.ffzy-online2.com/20240216/48497_7124419f/index.m3u8
-#EXTINF:-1 tvg-name="第二十条TC" tvg-logo="https://live.fanmingming.com/tv/第二十条TC.png" group-title="2024新片",第二十条TC
+#EXTINF:-1 tvg-name="第二十条TC" group-title="2024新片",第二十条TC
 https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="飞驰人生2TC" tvg-logo="https://live.fanmingming.com/tv/飞驰人生2TC.png" group-title="2024新片",飞驰人生2TC
+#EXTINF:-1 tvg-name="飞驰人生2TC" group-title="2024新片",飞驰人生2TC
 https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="目中无人2" tvg-logo="https://live.fanmingming.com/tv/目中无人2.png" group-title="2024新片",目中无人2
+#EXTINF:-1 tvg-name="目中无人2" group-title="2024新片",目中无人2
 https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="战锋·尖峰对决" tvg-logo="https://live.fanmingming.com/tv/战锋·尖峰对决.png" group-title="2024新片",战锋·尖峰对决
+#EXTINF:-1 tvg-name="战锋·尖峰对决" group-title="2024新片",战锋·尖峰对决
 https://vip.ffzy-online6.com/20240221/26640_7e77660f/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="惊天激战[美]" tvg-logo="https://live.fanmingming.com/tv/惊天激战[美].png" group-title="2024新片",惊天激战[美]
+#EXTINF:-1 tvg-name="惊天激战[美]" group-title="2024新片",惊天激战[美]
 https://v.cdnlz19.com/20240219/17331_1e41d0fd/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="外星+人2[韩]" tvg-logo="https://live.fanmingming.com/tv/外星+人2[韩].png" group-title="2024新片",外星+人2[韩]
+#EXTINF:-1 tvg-name="外星+人2[韩]" group-title="2024新片",外星+人2[韩]
 https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="破战" tvg-logo="https://live.fanmingming.com/tv/破战.png" group-title="2024新片",破战
+#EXTINF:-1 tvg-name="破战" group-title="2024新片",破战
 https://yzzy1.play-cdn20.com/20240216/17014_96791511/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="金手指[国]" tvg-logo="https://live.fanmingming.com/tv/金手指[国].png" group-title="2024新片",金手指[国]
+#EXTINF:-1 tvg-name="金手指[国]" group-title="2024新片",金手指[国]
 https://ikcdn01.ikzybf.com/20240213/xZTh2qQA/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="金手指[粤]" tvg-logo="https://live.fanmingming.com/tv/金手指[粤].png" group-title="2024新片",金手指[粤]
+#EXTINF:-1 tvg-name="金手指[粤]" group-title="2024新片",金手指[粤]
 https://yzzy1.play-cdn1.com/20240213/16166_adb7cace/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="缉恶" tvg-logo="https://live.fanmingming.com/tv/缉恶.png" group-title="2024新片",缉恶
+#EXTINF:-1 tvg-name="缉恶" group-title="2024新片",缉恶
 https://yzzy1.play-cdn1.com/20240212/16107_ce5c69e6/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="狄仁杰之通天玄案" tvg-logo="https://live.fanmingming.com/tv/狄仁杰之通天玄案.png" group-title="2024新片",狄仁杰之通天玄案
+#EXTINF:-1 tvg-name="狄仁杰之通天玄案" group-title="2024新片",狄仁杰之通天玄案
 https://s.xlzys.com/play/BeXvzOlb/index.m3u8
-#EXTINF:-1 tvg-name="热血地雷战" tvg-logo="https://live.fanmingming.com/tv/热血地雷战.png" group-title="2024新片",热血地雷战
+#EXTINF:-1 tvg-name="热血地雷战" group-title="2024新片",热血地雷战
 https://s.xlzys.com/play/DbDDvWxb/index.m3u8#https://v11.suonizy-youku.com/202402/26/A8TWS7EeJe4/video/2000k_0X1080_64k_25/hls/index.m3u8
-#EXTINF:-1 tvg-name="古楼镇陵宫" tvg-logo="https://live.fanmingming.com/tv/古楼镇陵宫.png" group-title="2024新片",古楼镇陵宫
+#EXTINF:-1 tvg-name="古楼镇陵宫" group-title="2024新片",古楼镇陵宫
 https://v.cdnlz12.com/20240222/11772_cc17a068/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="瞒天过海" tvg-logo="https://live.fanmingming.com/tv/瞒天过海.png" group-title="2024新片",瞒天过海
+#EXTINF:-1 tvg-name="瞒天过海" group-title="2024新片",瞒天过海
 https://hnzy.bfvvs.com/play/YerrBPke/index.m3u8
-#EXTINF:-1 tvg-name="非诚勿扰3" tvg-logo="https://live.fanmingming.com/tv/非诚勿扰3.png" group-title="2024新片",非诚勿扰3
+#EXTINF:-1 tvg-name="非诚勿扰3" group-title="2024新片",非诚勿扰3
 https://yzzy1.play-cdn20.com/20240210/16640_403958bf/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="史上最强弟子" tvg-logo="https://live.fanmingming.com/tv/史上最强弟子.png" group-title="2024新片",史上最强弟子
+#EXTINF:-1 tvg-name="史上最强弟子" group-title="2024新片",史上最强弟子
 https://yzzy.play-cdn19.com/20240209/19332_06c6451f/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="长津湖" tvg-logo="https://live.fanmingming.com/tv/长津湖.png" group-title="2024新片",长津湖
+#EXTINF:-1 tvg-name="长津湖" group-title="2024新片",长津湖
 https://s1.bfzycdn.com/video/changjinhu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
-#EXTINF:-1 tvg-name="长津湖之水门桥" tvg-logo="https://live.fanmingming.com/tv/长津湖之水门桥.png" group-title="2024新片",长津湖之水门桥
+#EXTINF:-1 tvg-name="长津湖之水门桥" group-title="2024新片",长津湖之水门桥
 https://cdn17.yzzy-online.com/20230817/16230_2dbddb92/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="一闪一闪亮星星" tvg-logo="https://live.fanmingming.com/tv/一闪一闪亮星星.png" group-title="2024新片",一闪一闪亮星星
+#EXTINF:-1 tvg-name="一闪一闪亮星星" group-title="2024新片",一闪一闪亮星星
 https://ikcdn01.ikzybf.com/20240213/vWZ9ePUu/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="照明商店" tvg-logo="https://live.fanmingming.com/tv/照明商店.png" group-title="2024新片",照明商店
+#EXTINF:-1 tvg-name="照明商店" group-title="2024新片",照明商店
 https://yzzy.play-cdn19.com/20240213/19794_4de23d38/2000k/hls/index.m3u8#
-#EXTINF:-1 tvg-name="年会不能停" tvg-logo="https://live.fanmingming.com/tv/年会不能停.png" group-title="2024新片",年会不能停
+#EXTINF:-1 tvg-name="年会不能停" group-title="2024新片",年会不能停
 https://yzzy.play-cdn19.com/20240213/19788_da07138c/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="北冥有鲲" tvg-logo="https://live.fanmingming.com/tv/北冥有鲲.png" group-title="2024新片",北冥有鲲
+#EXTINF:-1 tvg-name="北冥有鲲" group-title="2024新片",北冥有鲲
 https://vip.ffzy-online6.com/20240211/26120_e94353cd/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="四平警事之钻石大劫案" tvg-logo="https://live.fanmingming.com/tv/四平警事之钻石大劫案.png" group-title="2024新片",四平警事之钻石大劫案
+#EXTINF:-1 tvg-name="四平警事之钻石大劫案" group-title="2024新片",四平警事之钻石大劫案
 https://v.cdnlz2.com/20240206/28771_69d6e63e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="露梁海战" tvg-logo="https://live.fanmingming.com/tv/露梁海战.png" group-title="2024新片",露梁海战
+#EXTINF:-1 tvg-name="露梁海战" group-title="2024新片",露梁海战
 https://v.cdnlz19.com/20240205/13018_c311202b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="黑白潜行" tvg-logo="https://live.fanmingming.com/tv/黑白潜行.png" group-title="2024新片",黑白潜行
+#EXTINF:-1 tvg-name="黑白潜行" group-title="2024新片",黑白潜行
 https://vip.ffzy-online6.com/20240204/25747_fb206ff2/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="三大队" tvg-logo="https://live.fanmingming.com/tv/三大队.png" group-title="2024新片",三大队
+#EXTINF:-1 tvg-name="三大队" group-title="2024新片",三大队
 https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="我本是高山" tvg-logo="https://live.fanmingming.com/tv/我本是高山.png" group-title="2024新片",我本是高山
+#EXTINF:-1 tvg-name="我本是高山" group-title="2024新片",我本是高山
 https://v.cdnlz12.com/20240128/11176_b475b264/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="长白山猎人传说" tvg-logo="https://live.fanmingming.com/tv/长白山猎人传说.png" group-title="2024新片",长白山猎人传说
+#EXTINF:-1 tvg-name="长白山猎人传说" group-title="2024新片",长白山猎人传说
 https://vip.ffzy-online6.com/20240130/25459_dbbc3359/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="[印]猛虎3" tvg-logo="https://live.fanmingming.com/tv/[印]猛虎3.png" group-title="2024新片",[印]猛虎3
+#EXTINF:-1 tvg-name="[印]猛虎3" group-title="2024新片",[印]猛虎3
 https://hnzy.bfvvs.com/play/Pdy4pmzb/index.m3u8
-#EXTINF:-1 tvg-name="[美]无法治愈" tvg-logo="https://live.fanmingming.com/tv/[美]无法治愈.png" group-title="2024新片",[美]无法治愈
+#EXTINF:-1 tvg-name="[美]无法治愈" group-title="2024新片",[美]无法治愈
 https://vip.lz-cdn3.com/20220624/8306_5b24c626/1000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="[美]养蜂人抢先" tvg-logo="https://live.fanmingming.com/tv/[美]养蜂人抢先.png" group-title="2024新片",[美]养蜂人抢先
+#EXTINF:-1 tvg-name="[美]养蜂人抢先" group-title="2024新片",[美]养蜂人抢先
 https://www.yzzy.play-cdn20.com/20240130/14212_512dac09/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="孤注一掷" tvg-logo="https://live.fanmingming.com/tv/孤注一掷.png" group-title="2024新片",孤注一掷
+#EXTINF:-1 tvg-name="孤注一掷" group-title="2024新片",孤注一掷
 https://v.cdnlz12.com/20240131/11213_0006f281/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="大冒险王之金丝玉盘" tvg-logo="https://live.fanmingming.com/tv/大冒险王之金丝玉盘.png" group-title="2024新片",大冒险王之金丝玉盘
+#EXTINF:-1 tvg-name="大冒险王之金丝玉盘" group-title="2024新片",大冒险王之金丝玉盘
 https://hnzy.bfvvs.com/play/YerGjXpa/index.m3u8
-#EXTINF:-1 tvg-name="[国]爆裂点" tvg-logo="https://live.fanmingming.com/tv/[国]爆裂点.png" group-title="2024新片",[国]爆裂点
+#EXTINF:-1 tvg-name="[国]爆裂点" group-title="2024新片",[国]爆裂点
 https://v.cdnlz3.com/20240126/22924_311317eb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="[粤]爆裂点" tvg-logo="https://live.fanmingming.com/tv/[粤]爆裂点.png" group-title="2024新片",[粤]爆裂点
+#EXTINF:-1 tvg-name="[粤]爆裂点" group-title="2024新片",[粤]爆裂点
 https://v.cdnlz3.com/20240126/22925_ab576153/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="[韩]荒野" tvg-logo="https://live.fanmingming.com/tv/[韩]荒野.png" group-title="2024新片",[韩]荒野
+#EXTINF:-1 tvg-name="[韩]荒野" group-title="2024新片",[韩]荒野
 https://v.cdnlz2.com/20240126/28294_cdfab943/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="挡马夺刀" tvg-logo="https://live.fanmingming.com/tv/挡马夺刀.png" group-title="2024新片",挡马夺刀
+#EXTINF:-1 tvg-name="挡马夺刀" group-title="2024新片",挡马夺刀
 https://www.yzzy.play-cdn20.com/20240125/13928_02451c32/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="速度与激情10" tvg-logo="https://live.fanmingming.com/tv/速度与激情10.png" group-title="2024新片",速度与激情10
+#EXTINF:-1 tvg-name="速度与激情10" group-title="2024新片",速度与激情10
 https://vip.lz-cdn3.com/20230609/19446_bd6c3340/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="再见.李可乐" tvg-logo="https://live.fanmingming.com/tv/再见.李可乐.png" group-title="2024新片",再见.李可乐
+#EXTINF:-1 tvg-name="再见.李可乐" group-title="2024新片",再见.李可乐
 https://v.cdnlz12.com/20240124/11081_e095c299/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="海王2.失落的王国" tvg-logo="https://live.fanmingming.com/tv/海王2.失落的王国.png" group-title="2024新片",海王2.失落的王国
+#EXTINF:-1 tvg-name="海王2.失落的王国" group-title="2024新片",海王2.失落的王国
 https://v.cdnlz12.com/20240123/11056_97ad71a3/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="涉过愤怒的海" tvg-logo="https://live.fanmingming.com/tv/涉过愤怒的海.png" group-title="2024新片",涉过愤怒的海
+#EXTINF:-1 tvg-name="涉过愤怒的海" group-title="2024新片",涉过愤怒的海
 https://v.cdnlz3.com/20240112/22740_9e90a3db/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="一击2.城市混战" tvg-logo="https://live.fanmingming.com/tv/一击2.城市混战.png" group-title="2024新片",一击2.城市混战
+#EXTINF:-1 tvg-name="一击2.城市混战" group-title="2024新片",一击2.城市混战
 https://cdn1.vip-vip-yzzy.com/20240112/11718_c34d3123/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="刀尖" tvg-logo="https://live.fanmingming.com/tv/刀尖.png" group-title="2024新片",刀尖
+#EXTINF:-1 tvg-name="刀尖" group-title="2024新片",刀尖
 https://v.cdnlz12.com/20240117/11012_3f5cf514/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="志愿军：雄兵出击" tvg-logo="https://live.fanmingming.com/tv/志愿军：雄兵出击.png" group-title="2024新片",志愿军：雄兵出击
+#EXTINF:-1 tvg-name="志愿军：雄兵出击" group-title="2024新片",志愿军：雄兵出击
 https://dghls.mcloud.139.com/hls/L1c36c04a53255f72579c1f62fe2ad8e1b/single/video/0/376/index.m3u8
-#EXTINF:-1 tvg-name="毒液2" tvg-logo="https://live.fanmingming.com/tv/毒液2.png" group-title="2024新片",毒液2
+#EXTINF:-1 tvg-name="毒液2" group-title="2024新片",毒液2
 https://vip.lzcdn2.com/20220530/7945_ffa14188/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="西装暴徒" tvg-logo="https://live.fanmingming.com/tv/西装暴徒.png" group-title="2024新片",西装暴徒
+#EXTINF:-1 tvg-name="西装暴徒" group-title="2024新片",西装暴徒
 https://v.cdnlz3.com/20240118/22835_82f61c7e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="开国将帅授衔1955" tvg-logo="https://live.fanmingming.com/tv/开国将帅授衔1955.png" group-title="2024新片",开国将帅授衔1955
+#EXTINF:-1 tvg-name="开国将帅授衔1955" group-title="2024新片",开国将帅授衔1955
 https://cdn1.vip-vip-yzzy.com/20240113/12061_d95d9068/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="粽邪3.鬼门开" tvg-logo="https://live.fanmingming.com/tv/粽邪3.鬼门开.png" group-title="2024新片",粽邪3.鬼门开
+#EXTINF:-1 tvg-name="粽邪3.鬼门开" group-title="2024新片",粽邪3.鬼门开
 https://ukzy.ukubf3.com/20231219/XiwVy98L/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="怪物" tvg-logo="https://live.fanmingming.com/tv/怪物.png" group-title="2024新片",怪物
+#EXTINF:-1 tvg-name="怪物" group-title="2024新片",怪物
 https://v.cdnlz3.com/20240106/22647_12bced2d/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="月球叛军：火之女" tvg-logo="https://live.fanmingming.com/tv/月球叛军：火之女.png" group-title="2024新片",月球叛军：火之女
+#EXTINF:-1 tvg-name="月球叛军：火之女" group-title="2024新片",月球叛军：火之女
 https://v.cdnlz11.com/20231222/18799_a3ec4c15/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="画江湖之不良帅" tvg-logo="https://live.fanmingming.com/tv/画江湖之不良帅.png" group-title="2024新片",画江湖之不良帅
+#EXTINF:-1 tvg-name="画江湖之不良帅" group-title="2024新片",画江湖之不良帅
 https://v.cdnlz11.com/20240111/19241_3af8d963/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="追缉" tvg-logo="https://live.fanmingming.com/tv/追缉.png" group-title="2024新片",追缉
+#EXTINF:-1 tvg-name="追缉" group-title="2024新片",追缉
 https://v.cdnlz3.com/20231231/22557_d6b334ec/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="无价之宝" tvg-logo="https://live.fanmingming.com/tv/无价之宝.png" group-title="2024新片",无价之宝
+#EXTINF:-1 tvg-name="无价之宝" group-title="2024新片",无价之宝
 https://cdn1.vip-vip-yzzy.com/20231228/10597_1384c055/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="千鹤先生" tvg-logo="https://live.fanmingming.com/tv/千鹤先生.png" group-title="2024新片",千鹤先生
+#EXTINF:-1 tvg-name="千鹤先生" group-title="2024新片",千鹤先生
 https://v.cdnlz12.com/20240125/11104_24ac3055/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="[韩]野兽们的战争" tvg-logo="https://live.fanmingming.com/tv/[韩]野兽们的战争.png" group-title="2024新片",[韩]野兽们的战争
+#EXTINF:-1 tvg-name="[韩]野兽们的战争" group-title="2024新片",[韩]野兽们的战争
 https://v.cdnlz11.com/20231217/18739_fd0f9b07/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="二手杰作" tvg-logo="https://live.fanmingming.com/tv/二手杰作.png" group-title="2024新片",二手杰作
+#EXTINF:-1 tvg-name="二手杰作" group-title="2024新片",二手杰作
 https://v.cdnlz4.com/20231226/26302_f7a2357f/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="不日成婚2" tvg-logo="https://live.fanmingming.com/tv/不日成婚2.png" group-title="2024新片",不日成婚2
+#EXTINF:-1 tvg-name="不日成婚2" group-title="2024新片",不日成婚2
 https://yzzy.play-cdn19.com/20231214/10520_b17d82c4/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="好像也没那么热血沸腾" tvg-logo="https://live.fanmingming.com/tv/好像也没那么热血沸腾.png" group-title="2024新片",好像也没那么热血沸腾
+#EXTINF:-1 tvg-name="好像也没那么热血沸腾" group-title="2024新片",好像也没那么热血沸腾
 https://yzzy.play-cdn16.com/20231213/27660_19c61f1e/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-name="[美]惊奇队长2" tvg-logo="https://live.fanmingming.com/tv/[美]惊奇队长2.png" group-title="2024新片",[美]惊奇队长2
+#EXTINF:-1 tvg-name="[美]惊奇队长2" group-title="2024新片",[美]惊奇队长2
 https://v1.cdnlz1.com/20231208/24476_e5cafe33/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="前任4.英年早婚" tvg-logo="https://live.fanmingming.com/tv/前任4.英年早婚.png" group-title="2024新片",前任4.英年早婚
+#EXTINF:-1 tvg-name="前任4.英年早婚" group-title="2024新片",前任4.英年早婚
 https://ukzy.ukubf3.com/20231207/2i7LidCb/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="[韩]毒战2" tvg-logo="https://live.fanmingming.com/tv/[韩]毒战2.png" group-title="2024新片",[韩]毒战2
+#EXTINF:-1 tvg-name="[韩]毒战2" group-title="2024新片",[韩]毒战2
 https://v.cdnlz4.com/20231117/26156_c60ebe89/2000k/hls/mixed.m3u8
