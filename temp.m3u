@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-name="4KHD" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🛰央视频道",CCTV4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8 
 #EXTINF:-1 tvg-name="CCTV2-001" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🛰央视频道[V6]-001",CCTV2
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2-002" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🛰央视频道[V6]-002",CCTV2
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2-003" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🛰央视频道[V6]-003",CCTV2
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
