@@ -2140,3 +2140,24 @@ http://cfss.cc/cdn/dyu/9650792.m3u8
 http://zby.xjqxz.top/live16/live.m3u8
 #EXTINF:-1 tvg-name="雪豹" group-title="连续剧",雪豹
 http://cfss.cc/cdn/hy/29580970.m3u8
+
+#EXTINF:-1 group-title="音乐",音乐石榴
+http://live.iill.top/huya.php?id=17091681
+#EXTINF:-1 group-title="音乐",音乐速递
+http://live.iill.top/huya.php?id=19439762
+#EXTINF:-1 group-title="音乐",治愈•放松
+http://live.iill.top/huya.php?id=21241811
+#EXTINF:-1 group-title="音乐",阅读•学习
+http://live.iill.top/huya.php?id=21241813
+#EXTINF:-1 tvg-name="NBA TV 01" group-title="NBA",NBA TV 01
+https://stream1.freetv.fun/53e165be8c8c97d2f13e0c4d3a23f4418cd94fdf4b35a1c5a44eda64fecd5f58.m3u8
+#EXTINF:-1 tvg-name="NBA TV 02" group-title="NBA",NBA TV 02
+https://stream1.freetv.fun/3925ae0efbedb5860be0c6f5ed7cb1875529f4f97ace42bf2dac6ef282dc90e4.ctv
+#EXTINF:-1 tvg-name="NBA TV 03" group-title="NBA",NBA TV 03
+https://stream1.freetv.fun/3b6414cf619308a7d6edc3d1cc885fcbc8512eef391f4a88ef40d169ad9c77ef.ctv
+#EXTINF:-1 tvg-name="NBA TV 04" group-title="NBA",NBA TV 04
+https://stream1.freetv.fun/a5ff680ddfad88059288079dd0056136a0a0689e0141dd29b4ba3abe495005c6.m3u8
+#EXTINF:-1 tvg-name="NBA TV 05" group-title="NBA",NBA TV 05
+https://stream1.freetv.fun/77f399323d933577ee9accd1ce66ee491369f26854266769c707917846ceb8ba.m3u8
+#EXTINF:-1 tvg-name="NBA TV 06" group-title="NBA",NBA TV 06
+https://stream1.freetv.fun/adad5823e0e6e2ef6659680f202bae82b233212495e17f68bbef2920d20341e6.m3u8
