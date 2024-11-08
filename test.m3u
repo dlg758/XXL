@@ -1,180 +1,77 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv3" tvg-logo="cctv3.png",CCTV-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5plus.png",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv7" tvg-logo="cctv7.png",CCTV-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv8" tvg-logo="cctv8.png",CCTV-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-
-#EXTINF:-1 tvg-id="cctvjilu" tvg-logo="cctvjilu.png",CCTV-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv12" tvg-logo="cctv12.png",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv13" tvg-logo="cctv13.png",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-
-#EXTINF:-1 tvg-id="cctvchild" tvg-logo="cctvchild.png",CCTV-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv15" tvg-logo="cctv15.png",CCTV-15 音乐
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv16" tvg-logo="cctv16.png",CCTV-16 奥林匹克
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-
-#EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
-#EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-
-#EXTINF:-1 tvg-id="bingtuan" tvg-logo="bingtuan.png",兵团卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-
-#EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-
-#EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-
-#EXTINF:-1 tvg-id="btvjishi" tvg-logo="btvjishi.png",BTV纪实
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-
-#EXTINF:-1 tvg-id="cetv1" tvg-logo="cetv1.png",CETV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-
-#EXTINF:-1 tvg-id="cetv2" tvg-logo="cetv2.png",CETV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-
-#EXTINF:-1 tvg-id="cetv3" tvg-logo="cetv3.png",CETV-3
-http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-
-#EXTINF:-1 tvg-id="cetv4" tvg-logo="cetv4.png",CETV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
-#EXTINF:-1 tvg-id="chongqing" tvg-logo="chongqing.png",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-
-#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-
-#EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-
-#EXTINF:-1 tvg-id="gansu" tvg-logo="gansu.png",甘肃卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-
-#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-
-#EXTINF:-1 tvg-id="guangxi" tvg-logo="guangxi.png",广西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-
-#EXTINF:-1 tvg-id="guizhou" tvg-logo="guizhou.png",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-
-#EXTINF:-1 tvg-id="hebei" tvg-logo="hebei.png",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-
-#EXTINF:-1 tvg-id="heilongjiang" tvg-logo="heilongjiang.png",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-
-#EXTINF:-1 tvg-id="henan" tvg-logo="henan.png",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-
-#EXTINF:-1 tvg-id="hubei" tvg-logo="hubei.png",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-
-#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-
-#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-
-#EXTINF:-1 tvg-id="jiangxi" tvg-logo="jiangxi.png",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-
-#EXTINF:-1 tvg-id="jilin" tvg-logo="jilin.png",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-
-#EXTINF:-1 tvg-id="liaoning" tvg-logo="liaoning.png",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-
-#EXTINF:-1 tvg-id="neimenggu" tvg-logo="neimenggu.png",内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-
-#EXTINF:-1 tvg-id="ningxia" tvg-logo="ningxia.png",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-
-#EXTINF:-1 tvg-id="qinghai" tvg-logo="qinghai.png",青海卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-
-#EXTINF:-1 tvg-id="sdetv" tvg-logo="sdetv.png",山东教育电视台
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-
-#EXTINF:-1 tvg-id="shandong" tvg-logo="shandong.png",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-
-#EXTINF:-1 tvg-id="shan1xi" tvg-logo="shan1xi.png",山西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-
-#EXTINF:-1 tvg-id="shan3xi" tvg-logo="shan3xi.png",陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-
-#EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-
-#EXTINF:-1 tvg-id="sichuan" tvg-logo="sichuan.png",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-
-#EXTINF:-1 tvg-id="tianjin" tvg-logo="tianjin.png",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-
-#EXTINF:-1 tvg-id="travel" tvg-logo="travel.png",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-
-#EXTINF:-1 tvg-id="xiamen" tvg-logo="xiamen.png",厦门卫视
-http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
-
-#EXTINF:-1 tvg-id="xinjiang" tvg-logo="xinjiang.png",新疆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-
-#EXTINF:-1 tvg-id="xizang" tvg-logo="xizang.png",西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-
-#EXTINF:-1 tvg-id="yanbian" tvg-logo="yanbian.png",延边卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-
-#EXTINF:-1 tvg-id="yunnan" tvg-logo="yunnan.png",云南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-
-#EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 tvg-name="日本1" tvg-logo="https://live.fanmingming.com/tv/日本1.png" group-title="VIP",日本1
+http://108.181.32.169&id=641a7fef0001cbadc0dd785024cf7b16
+#EXTINF:-1 tvg-name="日本2" tvg-logo="https://live.fanmingming.com/tv/日本2.png" group-title="VIP",日本2
+http://108.181.32.169&id=641a7fef0001cbadc0dd785024cf7b16
+#EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://live.fanmingming.com/tv/HAPPY.png" group-title="VIP",HAPPY
+http://108.181.32.169&id=641a803200002963c0de7d9d18c613b0
+#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://live.fanmingming.com/tv/彩虹K.png" group-title="VIP",彩虹K
+http://108.181.32.169&id=641a80460008b827c0decdee29e32e4a
+#EXTINF:-1 tvg-name="玩美" tvg-logo="https://live.fanmingming.com/tv/玩美.png" group-title="VIP",玩美
+http://108.181.32.169&id=641a809400078800c0dffe502ef54240
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://live.fanmingming.com/tv/香蕉.png" group-title="VIP",香蕉
+http://108.181.32.169&id=650b8ae60005f36b8f1e751f68bd1c14
+#EXTINF:-1 tvg-name="ATV垫台" tvg-logo="https://live.fanmingming.com/tv/ATV垫台.png" group-title="VIP",ATV垫台
+http://108.181.32.169&id=641a80b3000e6c47c0e0793a487a2d83
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="VIP",惊艳
+http://108.181.32.169&id=650b8b37000c4e8a8f1fb328756e4077
+#EXTINF:-1 tvg-name="极限台HOT" tvg-logo="https://live.fanmingming.com/tv/极限台HOT.png" group-title="VIP",极限台HOT
+http://108.181.32.169&id=650b8b700004037d8f208fb144ea7e3f.ts
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://live.fanmingming.com/tv/彩虹电影.png" group-title="VIP",彩虹电影
+http://108.181.32.169&id=650b89c6000280318f1a0f3c30b74958
+#EXTINF:-1 tvg-name="11热舞" tvg-logo="https://live.fanmingming.com/tv/11热舞.png" group-title="VIP",11热舞
+http://108.181.32.169&id=643f467d0007d02950843193582d157f
+#EXTINF:-1 tvg-name="12探花1" tvg-logo="https://live.fanmingming.com/tv/12探花1.png" group-title="VIP",12探花1
+http://108.181.32.169&id=643f4a720003177e5093a56b35103bec
+#EXTINF:-1 tvg-name="13探花2" tvg-logo="https://live.fanmingming.com/tv/13探花2.png" group-title="VIP",13探花2
+http://108.181.32.169&id=643f4689000560ce50845fd32f1e3642
+#EXTINF:-1 tvg-name="14三级" tvg-logo="https://live.fanmingming.com/tv/14三级.png" group-title="VIP",14三级
+http://108.181.32.169&id=643f46e90005e4b65085d6f66e8430d7
+#EXTINF:-1 tvg-name="15良家" tvg-logo="https://live.fanmingming.com/tv/15良家.png" group-title="VIP",15良家
+http://108.181.32.169&id=643f46fa00003df4508617eb220234bd
+#EXTINF:-1 tvg-name="16人妻" tvg-logo="https://live.fanmingming.com/tv/16人妻.png" group-title="VIP",16人妻
+http://108.181.32.169&id=64487f210008fc287489385479a92810
+#EXTINF:-1 tvg-name="17张" tvg-logo="https://live.fanmingming.com/tv/17张.png" group-title="VIP",17张
+http://108.181.32.169&id=64487f750009511b748a808a27984fac
+#EXTINF:-1 tvg-name="18轮播1" tvg-logo="https://live.fanmingming.com/tv/18轮播1.png" group-title="VIP",18轮播1
+http://108.181.32.169&id=64487f5d000b5491748a234e7ced21778
+#EXTINF:-1 tvg-name="19轮播2" tvg-logo="https://live.fanmingming.com/tv/19轮播2.png" group-title="VIP",19轮播2
+http://108.181.32.169&id=64487f69000cb436748a5288486852e5
+#EXTINF:-1 tvg-name="20韩国演艺" tvg-logo="https://live.fanmingming.com/tv/20韩国演艺.png" group-title="VIP",20韩国演艺
+http://108.181.32.169&id=64487f44000009c47489bec26ba13f81
+#EXTINF:-1 tvg-name="21沉先1" tvg-logo="https://live.fanmingming.com/tv/21沉先1.png" group-title="VIP",21沉先1
+http://108.181.32.169&id=643f461b00047d7c5082b1e9785e07d1
+#EXTINF:-1 tvg-name="22沉先2" tvg-logo="https://live.fanmingming.com/tv/22沉先2.png" group-title="VIP",22沉先2
+http://108.181.32.169&id=643f4606000b30f85082619878c7475e
+#EXTINF:-1 tvg-name="23直播1" tvg-logo="https://live.fanmingming.com/tv/23直播1.png" group-title="VIP",23直播1
+http://108.181.32.169&id=643f4642000eba1250834ce0704e60b0
+#EXTINF:-1 tvg-name="24直播2" tvg-logo="https://live.fanmingming.com/tv/24直播2.png" group-title="VIP",24直播2
+http://108.181.32.169&id=643f462a0001fb665082ebdc599b5e74
+#EXTINF:-1 tvg-name="25直播3" tvg-logo="https://live.fanmingming.com/tv/25直播3.png" group-title="VIP",25直播3
+http://108.181.32.169&id=64487f5100084a5c7489f3a771c078c4
+#EXTINF:-1 tvg-name="26小宝神探" tvg-logo="https://live.fanmingming.com/tv/26小宝神探.png" group-title="VIP",26小宝神探
+http://108.181.32.169&id=643f4651000e995c5083877078e11741
+#EXTINF:-1 tvg-name="27太子神探" tvg-logo="https://live.fanmingming.com/tv/27太子神探.png" group-title="VIP",27太子神探
+http://108.181.32.169&id=643f46600000aa455083be767ecc30be
+#EXTINF:-1 tvg-name="28偷拍" tvg-logo="https://live.fanmingming.com/tv/28偷拍.png" group-title="VIP",28偷拍
+http://108.181.32.169&id=64487f82000255b1748ab189692e4233
+#EXTINF:-1 tvg-name="29剧情1赌博网勿" tvg-logo="https://live.fanmingming.com/tv/29剧情1赌博网勿.png" group-title="VIP",29剧情1赌博网勿
+http://108.181.32.169&id=643b3804000d529540abe3af535f7949
+#EXTINF:-1 tvg-name="30剧情2赌博网禁止信" tvg-logo="https://live.fanmingming.com/tv/30剧情2赌博网禁止信.png" group-title="VIP",30剧情2赌博网禁止信
+http://108.181.32.169:48125/643c452200057d4e44c6e5886a9d1abe
+#EXTINF:-1 tvg-name="31换妻1赌博网禁止信" tvg-logo="https://live.fanmingming.com/tv/31换妻1赌博网禁止信.png" group-title="VIP",31换妻1赌博网禁止信
+http://108.181.32.169&id=643c45330007748c44c728716e235ede
+#EXTINF:-1 tvg-name="32换妻1赌博网禁止信" tvg-logo="https://live.fanmingming.com/tv/32换妻1赌博网禁止信.png" group-title="VIP",32换妻1赌博网禁止信
+http://108.181.32.169:48125/643c4554000bc4ba44c7aa6c52af6d13
+#EXTINF:-1 tvg-name="33传媒3赌博网勿" tvg-logo="https://live.fanmingming.com/tv/33传媒3赌博网勿.png" group-title="VIP",33传媒3赌博网勿
+http://108.181.32.169&id=643c454300039d1b44c765ee65b91ba8
+#EXTINF:-1 tvg-name="34传媒4" tvg-logo="https://live.fanmingming.com/tv/34传媒4.png" group-title="VIP",34传媒4
+http://108.181.32.169&id=643f470a000467b05086577a5049739d
+#EXTINF:-1 tvg-name="35酒店偷拍赌博网勿" tvg-logo="https://live.fanmingming.com/tv/35酒店偷拍赌博网勿.png" group-title="VIP",35酒店偷拍赌博网勿
+http://108.181.32.169&id=643c456e0008fdf744c80f46561f2529
+#EXTINF:-1 tvg-name="36酒店偷拍2" tvg-logo="https://live.fanmingming.com/tv/36酒店偷拍2.png" group-title="VIP",36酒店偷拍2
+http://108.181.32.169&id=643f466e000109ae5083f53f78515fe0
+#EXTINF:-1 tvg-name="37麻豆赌博网勿" tvg-logo="https://live.fanmingming.com/tv/37麻豆赌博网勿.png" group-title="VIP",37麻豆赌博网勿
+http://108.181.32.169:48125/643ad82100025d323f355232416654c2
+#EXTINF:-1 tvg-name="38粉红" tvg-logo="https://live.fanmingming.com/tv/38粉红.png" group-title="VIP",38粉红
+http://108.181.32.169&id=641a800b00087defc0dde7672f891ee4
