@@ -110,13 +110,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="延边卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/df/yanbian.png" group-title="卫视高清",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 tvg-id="cetv1" tvg-name="CETV-1" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/df/CETV-1.png" group-title="卫视高清",CETV-1
+#EXTINF:-1 tvg-id="cetv1" tvg-name="CETV-1" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CETV1.png" group-title="卫视高清",CETV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="cetv2" tvg-name="CETV-3" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/df/CETV-2.png" group-title="卫视高清",CETV-2
+#EXTINF:-1 tvg-id="cetv2" tvg-name="CETV-3" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CETV2.png" group-title="卫视高清",CETV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-id="cetv3" tvg-name="CETV-3" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/df/CETV-3.png" group-title="卫视高清",CETV-3
+#EXTINF:-1 tvg-id="cetv3" tvg-name="CETV-3" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CETV3.png" group-title="卫视高清",CETV-3
 http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-id="cetv4" tvg-name="CETV-4" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/df/CETV-4.png" group-title="卫视高清",CETV-4
+#EXTINF:-1 tvg-id="cetv4" tvg-name="CETV-4" tvg-logo="https://mirror.ghproxy.com/https://github.com/dlg758/XXL/blob/main/logo/cctv/CETV4.png" group-title="卫视高清",CETV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
