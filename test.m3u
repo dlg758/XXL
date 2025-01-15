@@ -1,153 +1,37 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="日本1" tvg-logo="https://live.fanmingming.cn/tv/日本1.png" group-title="VIP",日本1
-http://108.181.32.169&641a7fef0001cbadc0dd785024cf7b16
-#EXTINF:-1 tvg-name="松视3" tvg-logo="https://live.fanmingming.cn/tv/松视3.png" group-title="VIP",松视3
-http://108.181.32.169&650b8a0e000007df8f1b27da75d42f65.ts
-#EXTINF:-1 tvg-name="日本2" tvg-logo="https://live.fanmingming.cn/tv/日本2.png" group-title="VIP",日本2
-http://108.181.32.169&641a7fef0001cbadc0dd785024cf7b16
-#EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://live.fanmingming.cn/tv/HAPPY.png" group-title="VIP",HAPPY
-http://108.181.32.169&641a803200002963c0de7d9d18c613b0
-#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://live.fanmingming.cn/tv/彩虹K.png" group-title="VIP",彩虹K
-http://108.181.32.169&641a80460008b827c0decdee29e32e4a
-#EXTINF:-1 tvg-name="玩美" tvg-logo="https://live.fanmingming.cn/tv/玩美.png" group-title="VIP",玩美
-http://108.181.32.169&641a809400078800c0dffe502ef54240
-#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://live.fanmingming.cn/tv/香蕉.png" group-title="VIP",香蕉
-http://108.181.32.169&650b8ae60005f36b8f1e751f68bd1c14
-#EXTINF:-1 tvg-name="ATV 垫台" tvg-logo="https://live.fanmingming.cn/tv/ATV 垫台.png" group-title="VIP",ATV 垫台
-http://108.181.32.169&641a80b3000e6c47c0e0793a487a2d83
-#EXTINF:-1 tvg-name="驚艷" tvg-logo="https://live.fanmingming.cn/tv/驚艷.png" group-title="VIP",驚艷
-http://108.181.32.169&650b8b37000c4e8a8f1fb328756e4077
-#EXTINF:-1 tvg-name="极限台HOT" tvg-logo="https://live.fanmingming.cn/tv/极限台HOT.png" group-title="VIP",极限台HOT
-http://108.181.32.169&650b8b700004037d8f208fb144ea7e3f.ts
-#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://live.fanmingming.cn/tv/彩虹电影.png" group-title="VIP",彩虹电影
-http://108.181.32.169&650b89c6000280318f1a0f3c30b74958
-#EXTINF:-1 tvg-name="11.热舞" tvg-logo="https://live.fanmingming.cn/tv/11.热舞.png" group-title="VIP",11.热舞
-http://108.181.32.169&643f467d0007d02950843193582d157f
-#EXTINF:-1 tvg-name="12.探花1" tvg-logo="https://live.fanmingming.cn/tv/12.探花1.png" group-title="VIP",12.探花1
-http://108.181.32.169&643f4a720003177e5093a56b35103bec
-#EXTINF:-1 tvg-name="13.探花2" tvg-logo="https://live.fanmingming.cn/tv/13.探花2.png" group-title="VIP",13.探花2
-http://108.181.32.169&643f4689000560ce50845fd32f1e3642
-#EXTINF:-1 tvg-name="14.三级" tvg-logo="https://live.fanmingming.cn/tv/14.三级.png" group-title="VIP",14.三级
-http://108.181.32.169&643f46e90005e4b65085d6f66e8430d7
-#EXTINF:-1 tvg-name="15.良家" tvg-logo="https://live.fanmingming.cn/tv/15.良家.png" group-title="VIP",15.良家
-http://108.181.32.169&643f46fa00003df4508617eb220234bd
-#EXTINF:-1 tvg-name="16.人妻" tvg-logo="https://live.fanmingming.cn/tv/16.人妻.png" group-title="VIP",16.人妻
-http://108.181.32.169&64487f210008fc287489385479a92810
-#EXTINF:-1 tvg-name="17.张" tvg-logo="https://live.fanmingming.cn/tv/17.张.png" group-title="VIP",17.张
-http://108.181.32.169&64487f750009511b748a808a27984fac
-#EXTINF:-1 tvg-name="19.轮播2" tvg-logo="https://live.fanmingming.cn/tv/19.轮播2.png" group-title="VIP",19.轮播2
-http://108.181.32.169&64487f69000cb436748a5288486852e5
-#EXTINF:-1 tvg-name="20.韩国演艺" tvg-logo="https://live.fanmingming.cn/tv/20.韩国演艺.png" group-title="VIP",20.韩国演艺
-http://108.181.32.169&64487f44000009c47489bec26ba13f81
-#EXTINF:-1 tvg-name="21.沉先" tvg-logo="https://live.fanmingming.cn/tv/21.沉先.png" group-title="VIP",21.沉先
-http://108.181.32.169&643f461b00047d7c5082b1e9785e07d1
-#EXTINF:-1 tvg-name="22.沉先1" tvg-logo="https://live.fanmingming.cn/tv/22.沉先1.png" group-title="VIP",22.沉先1
-http://108.181.32.169&643f4606000b30f85082619878c7475e
-#EXTINF:-1 tvg-name="23.直播1" tvg-logo="https://live.fanmingming.cn/tv/23.直播1.png" group-title="VIP",23.直播1
-http://108.181.32.169&643f4642000eba1250834ce0704e60b0
-#EXTINF:-1 tvg-name="24.直播2" tvg-logo="https://live.fanmingming.cn/tv/24.直播2.png" group-title="VIP",24.直播2
-http://108.181.32.169&643f462a0001fb665082ebdc599b5e74
-#EXTINF:-1 tvg-name="25.直播3" tvg-logo="https://live.fanmingming.cn/tv/25.直播3.png" group-title="VIP",25.直播3
-http://108.181.32.169&64487f5100084a5c7489f3a771c078c4
-#EXTINF:-1 tvg-name="26.小宝神探" tvg-logo="https://live.fanmingming.cn/tv/26.小宝神探.png" group-title="VIP",26.小宝神探
-http://108.181.32.169&643f4651000e995c5083877078e11741
-#EXTINF:-1 tvg-name="27.太子神探" tvg-logo="https://live.fanmingming.cn/tv/27.太子神探.png" group-title="VIP",27.太子神探
-http://108.181.32.169&643f46600000aa455083be767ecc30be
-#EXTINF:-1 tvg-name="28.偷拍" tvg-logo="https://live.fanmingming.cn/tv/28.偷拍.png" group-title="VIP",28.偷拍
-http://108.181.32.169&64487f82000255b1748ab189692e4233
-#EXTINF:-1 tvg-name="29.剧情1赌博网勿" tvg-logo="https://live.fanmingming.cn/tv/29.剧情1赌博网勿.png" group-title="VIP",29.剧情1赌博网勿
-http://108.181.32.169&643b3804000d529540abe3af535f7949
-#EXTINF:-1 tvg-name="30.剧情2赌博网禁止信" tvg-logo="https://live.fanmingming.cn/tv/30.剧情2赌博网禁止信.png" group-title="VIP",30.剧情2赌博网禁止信
-p3p://108.181.32.169 :48125/643c452200057d4e44c6e5886a9d1abe
-#EXTINF:-1 tvg-name="31.换妻1赌博网禁止信" tvg-logo="https://live.fanmingming.cn/tv/31.换妻1赌博网禁止信.png" group-title="VIP",31.换妻1赌博网禁止信
-http://108.181.32.169&643c45330007748c44c728716e235ede
-#EXTINF:-1 tvg-name="32.换妻1赌博网禁止信" tvg-logo="https://live.fanmingming.cn/tv/32.换妻1赌博网禁止信.png" group-title="VIP",32.换妻1赌博网禁止信
-p3p:// 108.181.32.169:48125/643c4554000bc4ba44c7aa6c52af6d13
-#EXTINF:-1 tvg-name="33.传媒3赌博网勿" tvg-logo="https://live.fanmingming.cn/tv/33.传媒3赌博网勿.png" group-title="VIP",33.传媒3赌博网勿
-http://108.181.32.169&643c454300039d1b44c765ee65b91ba8
-#EXTINF:-1 tvg-name="34.传媒4" tvg-logo="https://live.fanmingming.cn/tv/34.传媒4.png" group-title="VIP",34.传媒4
-http://108.181.32.169&643f470a000467b05086577a5049739d
-#EXTINF:-1 tvg-name="35.酒店偷拍赌博网勿" tvg-logo="https://live.fanmingming.cn/tv/35.酒店偷拍赌博网勿.png" group-title="VIP",35.酒店偷拍赌博网勿
-http://108.181.32.169&643c456e0008fdf744c80f46561f2529
-#EXTINF:-1 tvg-name="36.酒店偷拍2" tvg-logo="https://live.fanmingming.cn/tv/36.酒店偷拍2.png" group-title="VIP",36.酒店偷拍2
-http://108.181.32.169&643f466e000109ae5083f53f78515fe0
-#EXTINF:-1 tvg-name="37.麻豆赌博网勿" tvg-logo="https://live.fanmingming.cn/tv/37.麻豆赌博网勿.png" group-title="VIP",37.麻豆赌博网勿
-p3p://108.181.32.169:48125/643ad82100025d323f355232416654c2
-#EXTINF:-1 tvg-name="38.粉红" tvg-logo="https://live.fanmingming.cn/tv/38.粉红.png" group-title="VIP",38.粉红
-http://108.181.32.169&641a800b00087defc0dde7672f891ee4
-#EXTINF:-1 tvg-name="39.彩虹E" tvg-logo="https://live.fanmingming.cn/tv/39.彩虹E.png" group-title="VIP",39.彩虹E
-http://108.181.32.169&641a802000061354c0de38d050782a5d
-#EXTINF:-1 tvg-name="40.21天然" tvg-logo="https://live.fanmingming.cn/tv/40.21天然.png" group-title="VIP",40.21天然
-p3p://108.181.32.169: 48125/642316230005e319e267fc00076e6e77
-#EXTINF:-1 tvg-name="41.AGirlKnows" tvg-logo="https://live.fanmingming.cn/tv/41.AGirlKnows.png" group-title="VIP",41.AGirlKnows
-http://108.181.32.169&648125860005a2bce275369f096d68b2
-#EXTINF:-1 tvg-name="42.AmateurAllure" tvg-logo="https://live.fanmingming.cn/tv/42.AmateurAllure.png" group-title="VIP",42.AmateurAllure
-p3p://10 8.181.32.169:48125/64231a180004ee7de27770c263dc6c5c
-#EXTINF:-1 tvg-name="43.阿尼洛斯" tvg-logo="https://live.fanmingming.cn/tv/43.阿尼洛斯.png" group-title="VIP",43.阿尼洛斯
-http://108.181.32.169&64231a2700022f77e277aaa6349f3b6c
-#EXTINF:-1 tvg-name="44.屁股游行" tvg-logo="https://live.fanmingming.cn/tv/44.屁股游行.png" group-title="VIP",44.屁股游行
-http://108.181.32.169&64231a33000d8e7de277dc6f4f9a18e6
-#EXTINF:-1 tvg-name="45.ATKExotics" tvg-logo="https://live.fanmingming.cn/tv/45.ATKExotics.png" group-title="VIP",45.ATKExotics
-http://108.181.32.169&64231a4200010d06e27813d404c6258d
-#EXTINF:-1 tvg-name="46.ATKGirlfriends" tvg-logo="https://live.fanmingming.cn/tv/46.ATKGirlfriends.png" group-title="VIP",46.ATKGirlfriends
-http://108.181.32.169&64231a510001a320e2784e927fb73712
-#EXTINF:-1 tvg-name="47.辣妹" tvg-logo="https://live.fanmingming.cn/tv/47.辣妹.png" group-title="VIP",47.辣妹
-http://108.181.32.169&64231a5e0004e407e27882302c8b31e1
-#EXTINF:-1 tvg-name="48.坏熟 ?http://108.181.32.169&64231a730008e6bde278d53e721a5725" tvg-logo="https://live.fanmingming.cn/tv/48.坏熟 ?http://108.181.32.169&64231a730008e6bde278d53e721a5725.png" group-title="VIP",48.坏熟 ?http://108.181.32.169&64231a730008e6bde278d53e721a5725
-undefined
-#EXTINF:-1 tvg-name="50.BigNaturals" tvg-logo="https://live.fanmingming.cn/tv/50.BigNaturals.png" group-title="VIP",50.BigNaturals
-p3p//108.181.32.169:48125/64231a8b0002615ee2793152059606bd
-#EXTINF:-1 tvg-name="51.BigTitsRoundAsses" tvg-logo="https://live.fanmingming.cn/tv/51.BigTitsRoundAsses.png" group-title="VIP",51.BigTitsRoundAsses
-p3p//108.181.32.169:48125/64231b27000855e1e27b94397bf80b92
-#EXTINF:-1 tvg-name="52.BigWetButts" tvg-logo="https://live.fanmingming.cn/tv/52.BigWetButts.png" group-title="VIP",52.BigWetButts
-http://108.181.32.169&64231b31000b2fa3e27bbc0401b41502
-#EXTINF:-1 tvg-name="53.黑色" tvg-logo="https://live.fanmingming.cn/tv/53.黑色.png" group-title="VIP",53.黑色
-http://108.181.32.169&64231b3d000ccc38e27beb4e0c6761a2
-#EXTINF:-1 tvg-name="54.BlackedRaw" tvg-logo="https://live.fanmingming.cn/tv/54.BlackedRaw.png" group-title="VIP",54.BlackedRaw
-http://108.181.32.169&64231b4a000de8afe27c1e5f78545a2d
-#EXTINF:-1 tvg-name="55.BlowJobFridaysBrattySis" tvg-logo="https://live.fanmingming.cn/tv/55.BlowJobFridaysBrattySis.png" group-title="VIP",55.BlowJobFridaysBrattySis
-http://108.181.32.169&64231b6a00041098e27c98db39615346
-#EXTINF:-1 tvg-name="56.BrownBunnies" tvg-logo="https://live.fanmingming.cn/tv/56.BrownBunnies.png" group-title="VIP",56.BrownBunnies
-http://108.181.32.169&64231b78000add51e27cd14927255d3f
-#EXTINF:-1 tvg-name="57.CastingCouch" tvg-logo="https://live.fanmingming.cn/tv/57.CastingCouch.png" group-title="VIP",57.CastingCouch
-http://108.181.32.169&64231b86000a48fae27d07d329db33e4
-#EXTINF:-1 tvg-name="58.CherryPimps" tvg-logo="https://live.fanmingming.cn/tv/58.CherryPimps.png" group-title="VIP",58.CherryPimps
-p3p ://108.181.32.169:48125/64231b92000a3affe27d36af63d61e29
-#EXTINF:-1 tvg-name="59.ClubSeventeen" tvg-logo="https://live.fanmingming.cn/tv/59.ClubSeventeen.png" group-title="VIP",59.ClubSeventeen
-http://108.181.32.169&64231bb0000c5af4e27dac6b1ac34aa7
-#EXTINF:-1 tvg-name="60.CosplayBa是的" tvg-logo="https://live.fanmingming.cn/tv/60.CosplayBa是的.png" group-title="VIP",60.CosplayBa是的
-http://108.181.32.169&64231e29000b5e44e28754d970cf79e5
-#EXTINF:-1 tvg-name="61.Cum4k" tvg-logo="https://live.fanmingming.cn/tv/61.Cum4k.png" group-title="VIP",61.Cum4k
-http://108.181.32.169&64231e3500087509e28782fb78337450
-#EXTINF:-1 tvg-name="62.DaughterSwap" tvg-logo="https://live.fanmingming.cn/tv/62.DaughterSwap.png" group-title="VIP",62.DaughterSwap
-http://108.181.32.169&64231e43000005c0e287b78262934d05
-#EXTINF:-1 tvg-name="63.DeepThro在警报器" tvg-logo="https://live.fanmingming.cn/tv/63.DeepThro在警报器.png" group-title="VIP",63.DeepThro在警报器
-http://108.181.32.169&64231e4e000d5285e287e5e27ae210aa
-#EXTINF:-1 tvg-name="64.DigitalDesire" tvg-logo="https://live.fanmingming.cn/tv/64.DigitalDesire.png" group-title="VIP",64.DigitalDesire
-http://108.181.32.169&64231e5c000707ade2881af5064017b3
-#EXTINF:-1 tvg-name="65.DorcelClub" tvg-logo="https://live.fanmingming.cn/tv/65.DorcelClub.png" group-title="VIP",65.DorcelClub
-http://108.181.32.169&64231e6700099e41e28846973df74159
-#EXTINF:-1 tvg-name="66.邪恶天使" tvg-logo="https://live.fanmingming.cn/tv/66.邪恶天使.png" group-title="VIP",66.邪恶天使
-http://108.181.32.169&64231e73000047b5e288731314ab23d5
-#EXTINF:-1 tvg-name="68.ExploitedCollegeGirls" tvg-logo="https://live.fanmingming.cn/tv/68.ExploitedCollegeGirls.png" group-title="VIP",68.ExploitedCollegeGirls
-http://108.181.32.169&64231e91000587aae288e99916e46fdd
-#EXTINF:-1 tvg-name="69.ExxxtraSmall" tvg-logo="https://live.fanmingming.cn/tv/69.ExxxtraSmall.png" group-title="VIP",69.ExxxtraSmall
-http://108.181.32.169&64231e9c0007a45ee289151c0c8f60ca
-#EXTINF:-1 tvg-name="70.FakeTaxi" tvg-logo="https://live.fanmingming.cn/tv/70.FakeTaxi.png" group-title="VIP",70.FakeTaxi
-http://108.181.32.169&64231eaa000cc687e2894d1c6445706e
-#EXTINF:-1 tvg-name="71.FamilyStrokes" tvg-logo="https://live.fanmingming.cn/tv/71.FamilyStrokes.png" group-title="VIP",71.FamilyStrokes
-http://108.181.32.169&64231f800006c5b7e28c8f791462113b
-#EXTINF:-1 tvg-name="72.FantasyHD" tvg-logo="https://live.fanmingming.cn/tv/72.FantasyHD.png" group-title="VIP",72.FantasyHD
-http://108.181.32.169&64231f8a0006c438e28cb688051704fb
-#EXTINF:-1 tvg-name="73.FemJoy" tvg-logo="https://live.fanmingming.cn/tv/73.FemJoy.png" group-title="VIP",73.FemJoy
-http://108.181.32.169&64231fa100081c21e28d10b9786a536d
-#EXTINF:-1 tvg-name="74.FilthyFamily" tvg-logo="https://live.fanmingming.cn/tv/74.FilthyFamily.png" group-title="VIP",74.FilthyFamily
-http://108.181.32.169&64231fad000bdd26e28d408f21004aae
-#EXTINF:-1 tvg-name="75.FilthyPOV" tvg-logo="https://live.fanmingming.cn/tv/75.FilthyPOV.png" group-title="VIP",75.FilthyPOV
-http://108.181.32.169&64231fbd00063ca2e28d7d9e6f266ed8
-#EXTINF:-1 tvg-name="76.FootsieBabes" tvg-logo="https://live.fanmingming.cn/tv/76.FootsieBabes.png" group-title="VIP",76.FootsieBabes
-http://108.181.32.169&64231fc9000c2217e28dae004f27257d
-#EXTINF:-1 tvg-name="77.FTVGirls" tvg-logo="https://live.fanmingming.cn/tv/77.FTVGirls.png" group-title="VIP",77.FTVGirls
-http://108.181.32.169&64231fd4000eb8abe28dd9a20117693f
-#EXTINF:-1 tvg-name="78.FuckedHard18" tvg-logo="https://live.fanmingming.cn/tv/78.FuckedHard18.png" group-title="VIP",78.FuckedHard18
-http://108.181.32.169&64231fe40007e776e28e16636c8f19c7
+#EXTINF:-1 group-title="央视",CCTV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
