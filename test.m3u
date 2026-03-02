@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
